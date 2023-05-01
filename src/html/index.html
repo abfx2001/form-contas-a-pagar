@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="pt:BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../css/styles.css">
+    <title>Contas a Pagar</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="inline">
+        <img src="../img/selladm-logo.png">
+        <h1>Formulário de contas a pagar</h1>
+      </div>
+      <table>
+        <tr>
+          <th>COD</th>
+          <th>CONDOMÍNIO</th>
+        </tr>
+        <tr>
+          <td style="font-weight: 650;">999</td>
+          <td>APL PALM HILLS GRANJA VIANNA RESIDENCE</td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>CNPJ</td>
+          <td>09.390.101/0001-90</td>
+        </tr>
+        <tr>
+          <td>DATA PARA PAGAMENTO</td>
+          <td>15/08/2022</td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>VALOR</td>
+          <td>R$ 10.000,00</td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>FORMA DE PAGAMENTO</td>
+          <td>
+            <select name="formaDePagamento" id="formaDePagamento">
+              <option value="pix">PIX</option>
+              <option value="transBanc">TRANSFERÊNCIA BANCÁRIA</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>FAVORECIDO</td>
+          <td>SELL ADMINISTRADORA</td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>CNPJ/CPF</td>
+          <td>14.804.150/0001-62</td>
+        </tr>
+        <tr>
+          <td>CHAVE PIX</td>
+          <td>35.613.265/0001-40</td>
+        </tr>
+        <tr>
+          <td>BANCO</td>
+          <td>341</td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>AGÊNCIA</td>
+          <td>
+            <input type="text" placeholder="XXXXX">
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>
+            <select name="tipoConta" id="tipoConta">
+              <option value="corrente">CONTA CORRENTE</option>
+              <option value="poupanca">CONTA POUPANÇA</option>
+            </select>
+          </td>
+          <td>
+            <input type="text" placeholder="XXXXXXX">
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>CONTA CONTÁBIL</td>
+          <td>
+            <select name="tipoContabil" id="tipoContabil">
+              <option value="01">01 - ORDINÁRIA</option>
+              <option value="02">02 - FUNDO DE RESERVA</option>
+              <option value="03">03 - PROVISAO TRABALHISTA</option>
+              <option value="04">04 - OBRAS</option>
+              <option value="05">05 - MELHORIAS</option>
+              <option value="06">06 - BENFEITORIA</option>
+              <option value="07">07 - SALÃO DE FESTAS</option>
+              <option value="08">08 - FUNDO FIXO CAIXA</option>
+              <option value="09">09 - ACORDO/JURIDICO</option>
+              <option value="10">10 - SEGURANÇA</option>
+              <option value="11">11 - TV POR ASSINATURA</option>
+              <option value="12">12 - CONSUMO DE GAS</option>
+              <option value="13">13 - IPTU</option>
+              <option value="14">14 - CONSUMO DE AGUA</option>
+              <option value="15">15 - QUADRO ENERGIA ELETRICA</option>
+              <option value="16">16 - PEÇAS ELEVADOR</option>
+              <option value="17">17 - ACADEMIA</option>
+              <option value="18">18 - A.V.C.B</option>
+              <option value="19">19 - INSTALAÇÃO CFTV</option>
+              <option value="20">20 - ALUGUEL VAGA GARAGEM</option>
+              <option value="21">21 - APLICAÇAO</option>
+              <option value="22">22 - CHURRASQUEIRA</option>
+              <option value="23">23 - PROCESSO TRABALHISTA</option>
+              <option value="24">24 - RESCISÃO FUNCIONARIO</option>
+              <option value="25">25 - FDO.FIXO CAIXA SINDICO</option>
+              <option value="26">26 - FDO.FIXO CAIXA ZELADOR</option>
+              <option value="27">27 - FDO.FIXO CAIXA ATUAL</option>
+              <option value="28">28 - PINTURA</option>
+              <option value="29">29 - IMPERMEABILIZAÇÃO FACHADA</option>
+              <option value="30">30 - GARAGEM</option>
+              <option value="31">31 - REFORMA</option>
+              <!--<option value="">32 - ?</option>-->
+              <option value="33">33 - PROCESSO INCORPORADORA</option>
+              <option value="34">34 - BOLSA BENEFICIENCIA</option>
+              <option value="35">35 - EVENTOS</option>
+              <option value="36">36 - LOJA</option>
+              <option value="37">37 - SALDO ADM ANTERIOR</option>
+              <option value="38">38 - ELEVADOR</option>
+              <option value="39">39 - CLAUSURAS</option>
+              <option value="40">40 - PRUMADA</option>
+              <option value="41">41 - GERADORES</option>
+              <option value="42">42 - ASSESSORIA ESPORTIVA/EVENTOS</option>
+              <option value="43">43 - MANUTENÇÃO</option>
+              <option value="44">44 - INDIVIDUALIZAÇÃO DE GAS</option>
+              <option value="45">45 - INADIMPLENCIA</option>
+              <option value="">46 - CONTA ESPECIAL GUARITA/PINTURA</option>
+              <option value="">47 - AÇÃO TRABALHISTA</option>
+              <option value="">48 - REFORMA DA FACHADA</option>
+              <option value="">49 - IMPERMEABILIZAÇÃO</option>
+              <option value="">50 - IMPLANTAÇÃO</option>
+              <option value="">51 - EXTRA CONDOMINIAL</option>
+              <option value="">52 - CAIXA JURIDICO</option>
+              <option value="">53 - CONTROLE REMOTO/ACESSO</option>
+              <option value="">54 - ALUGUEL</option>
+              <option value="">55 - SHOWS</option>
+              <option value="">56 - PROC. CONSTRUTORA JAU / SABESP</option>
+              <option value="">57 - PROV. 13º SALÁRIO</option>
+              <option value="">58 - INDIVIDUALIZAÇÃO DE AGUA</option>
+              <option value="">59 - LAVANDERIA</option>
+              <option value="">60 - CONSUMOS</option>
+              <option value="">61 - FUNDO DE INVESTIMENTO</option>
+              <option value="">62 - SALDO ADM ANTERIOR REGULARIZAR</option>
+              <option value="">63 - LOCAÇÃO</option>
+              <option value="">64 - CONSUMO DE AGUA/GAS</option>
+              <option value="">65 - CESSAO PROV DIREITO AREA COMUM</option>
+              <option value="">66 - POÇO ARTESIANO</option>
+              <option value="">67 - INDIVIDUALIZAÇÃO - ÁGUA/GÁS</option>
+              <option value="">68 - RATEIO EXTRA</option>
+              <option value="">69 - RESERVA SEGURANÇA EMERGENCIA</option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>DATA/HORA</td>
+          <td>
+            <input class="inputMenor" type="text">
+            <input class="inputMenor" type="text">
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>ASSINATURA GERENTE</td>
+          <td>
+            <input type="text" placeholder="Digite o nome do Gerente">
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>ANEXOS:</td>
+          <td>
+            <select name="tipoAnexo" id="tipoAnexo">
+              <option value="recibo">1 - RECIBO</option>
+              <option value="notaFiscal">2 - NOTA FISCAL</option>
+            </select>
+          </td>
+        </td>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td style="padding-bottom:80px;">HISTÓRICO:</td>
+          <td>
+            <textarea
+              name="teste"
+              id=""
+              cols="50"
+              rows="6"
+            ></textarea>
+          </td>
+        </tr>
+      </table>
+      <button type="submit">Gerar</button>
+      <button type="submit">Imprimir</button>
+      <button type="submit">Limpar</button>
+    </div>
+  </body>
+</html>
