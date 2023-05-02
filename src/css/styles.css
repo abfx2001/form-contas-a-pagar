@@ -19,7 +19,7 @@
 
 input {
     text-align: center;
-    width: 380px;
+    width: 300px;
 }
 
 table,
@@ -37,4 +37,26 @@ td {
 
 * {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+textarea,
+select,
+input,
+textarea:focus,
+input:focus,
+select:focus {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+select {
+    text-align: center;
+}
+
+.selectStart {
+    text-align: start;
 }

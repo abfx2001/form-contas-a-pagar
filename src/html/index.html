@@ -19,26 +19,38 @@
           <th>CONDOMÍNIO</th>
         </tr>
         <tr>
-          <td style="font-weight: 650;">999</td>
-          <td>APL PALM HILLS GRANJA VIANNA RESIDENCE</td>
+          <td style="font-weight: 650;">
+            <input type="text" id="codCond" placeholder="...">
+          </td>
+          <td id="cond">-</td>
         </tr>
         <tr>
           <td colspan="2" class="primaryColor"></td>
         </tr>
         <tr>
           <td>CNPJ</td>
-          <td>09.390.101/0001-90</td>
+          <td id="condCNPJ">-</td>
         </tr>
         <tr>
           <td>DATA PARA PAGAMENTO</td>
-          <td>15/08/2022</td>
+          <td>
+            <input id="valorInput" type="date">
+          </td>
         </tr>
         <tr>
           <td colspan="2" class="primaryColor"></td>
         </tr>
         <tr>
           <td>VALOR</td>
-          <td>R$ 10.000,00</td>
+          <td>
+            R$:
+            <input
+              type="text"
+              id="valorInput"
+              class="inputMenor"
+              placeholder="Digite o valor"
+            >
+          </td>
         </tr>
         <tr>
           <td colspan="2" class="primaryColor"></td>
@@ -57,22 +69,56 @@
         </tr>
         <tr>
           <td>FAVORECIDO</td>
-          <td>SELL ADMINISTRADORA</td>
+          <td>
+            <input
+              type="text"
+              name=""
+              id="valorInput"
+              placeholder="Digite o nome do Favorecido"
+            >
+          </td>
         </tr>
         <tr>
           <td colspan="2" class="primaryColor"></td>
         </tr>
         <tr>
           <td>CNPJ/CPF</td>
-          <td>14.804.150/0001-62</td>
+          <td>
+            <input
+              type="text"
+              name=""
+              id="valorInput"
+              placeholder="Digite o CNPJ/CPF"
+            >
+          </td>
         </tr>
         <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr id="chavePix">
           <td>CHAVE PIX</td>
-          <td>35.613.265/0001-40</td>
+          <td>
+            <input
+              type="text"
+              name=""
+              id=""
+              placeholder="Digite a chave pix"
+            >
+          </td>
+        </tr>
+        <tr id="linhaPix">
+          <td colspan="2" class="primaryColor"></td>
         </tr>
         <tr>
           <td>BANCO</td>
-          <td>341</td>
+          <td>
+            <input
+              type="text"
+              name=""
+              id="valorInput"
+              placeholder="Digite o número do banco"
+            >
+          </td>
         </tr>
         <tr>
           <td colspan="2" class="primaryColor"></td>
@@ -80,7 +126,7 @@
         <tr>
           <td>AGÊNCIA</td>
           <td>
-            <input type="text" placeholder="XXXXX">
+            <input id="valorInput" type="text" placeholder="XXXXX">
           </td>
         </tr>
         <tr>
@@ -94,7 +140,7 @@
             </select>
           </td>
           <td>
-            <input type="text" placeholder="XXXXXXX">
+            <input id="valorInput" type="text" placeholder="XXXXXXX">
           </td>
         </tr>
         <tr>
@@ -103,7 +149,7 @@
         <tr>
           <td>CONTA CONTÁBIL</td>
           <td>
-            <select name="tipoContabil" id="tipoContabil">
+            <select name="tipoContabil" id="tipoContabil" class="selectStart">
               <option value="01">01 - ORDINÁRIA</option>
               <option value="02">02 - FUNDO DE RESERVA</option>
               <option value="03">03 - PROVISAO TRABALHISTA</option>
@@ -149,68 +195,58 @@
               <option value="43">43 - MANUTENÇÃO</option>
               <option value="44">44 - INDIVIDUALIZAÇÃO DE GAS</option>
               <option value="45">45 - INADIMPLENCIA</option>
-              <option value="">46 - CONTA ESPECIAL GUARITA/PINTURA</option>
-              <option value="">47 - AÇÃO TRABALHISTA</option>
-              <option value="">48 - REFORMA DA FACHADA</option>
-              <option value="">49 - IMPERMEABILIZAÇÃO</option>
-              <option value="">50 - IMPLANTAÇÃO</option>
-              <option value="">51 - EXTRA CONDOMINIAL</option>
-              <option value="">52 - CAIXA JURIDICO</option>
-              <option value="">53 - CONTROLE REMOTO/ACESSO</option>
-              <option value="">54 - ALUGUEL</option>
-              <option value="">55 - SHOWS</option>
-              <option value="">56 - PROC. CONSTRUTORA JAU / SABESP</option>
-              <option value="">57 - PROV. 13º SALÁRIO</option>
-              <option value="">58 - INDIVIDUALIZAÇÃO DE AGUA</option>
-              <option value="">59 - LAVANDERIA</option>
-              <option value="">60 - CONSUMOS</option>
-              <option value="">61 - FUNDO DE INVESTIMENTO</option>
-              <option value="">62 - SALDO ADM ANTERIOR REGULARIZAR</option>
-              <option value="">63 - LOCAÇÃO</option>
-              <option value="">64 - CONSUMO DE AGUA/GAS</option>
-              <option value="">65 - CESSAO PROV DIREITO AREA COMUM</option>
-              <option value="">66 - POÇO ARTESIANO</option>
-              <option value="">67 - INDIVIDUALIZAÇÃO - ÁGUA/GÁS</option>
-              <option value="">68 - RATEIO EXTRA</option>
-              <option value="">69 - RESERVA SEGURANÇA EMERGENCIA</option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
+              <option value="46">46 - CONTA ESPECIAL GUARITA/PINTURA</option>
+              <option value="47">47 - AÇÃO TRABALHISTA</option>
+              <option value="48">48 - REFORMA DA FACHADA</option>
+              <option value="49">49 - IMPERMEABILIZAÇÃO</option>
+              <option value="50">50 - IMPLANTAÇÃO</option>
+              <option value="51">51 - EXTRA CONDOMINIAL</option>
+              <option value="52">52 - CAIXA JURIDICO</option>
+              <option value="53">53 - CONTROLE REMOTO/ACESSO</option>
+              <option value="54">54 - ALUGUEL</option>
+              <option value="55">55 - SHOWS</option>
+              <option value="56">56 - PROC. CONSTRUTORA JAU / SABESP</option>
+              <option value="57">57 - PROV. 13º SALÁRIO</option>
+              <option value="58">58 - INDIVIDUALIZAÇÃO DE AGUA</option>
+              <option value="59">59 - LAVANDERIA</option>
+              <option value="60">60 - CONSUMOS</option>
+              <option value="61">61 - FUNDO DE INVESTIMENTO</option>
+              <option value="62">62 - SALDO ADM ANTERIOR REGULARIZAR</option>
+              <option value="63">63 - LOCAÇÃO</option>
+              <option value="64">64 - CONSUMO DE AGUA/GAS</option>
+              <option value="65">65 - CESSAO PROV DIREITO AREA COMUM</option>
+              <option value="66">66 - POÇO ARTESIANO</option>
+              <option value="67">67 - INDIVIDUALIZAÇÃO - ÁGUA/GÁS</option>
+              <option value="68">68 - RATEIO EXTRA</option>
+              <option value="69">69 - RESERVA SEGURANÇA EMERGENCIA</option>
+              <option value="70">70 - PROCESSO CLARO</option>
+              <option value="71">71 - OBRAS / TELHADO</option>
+              <option value="72">772 - PROCESSO CONSTRUTORA</option>
+              <option value="73">73 - FUNDO MINI MERCADO</option>
+              <option value="74">74 - SISTEMA DE INCÊNDIO</option>
+              <option value="75">75 - CNTA. P/ ATUALIZAÇÃO CONVENÇÃO</option>
+              <option value="76">76 - SALA ADMINISTRATIVA</option>
+              <option value="77">77 - PROJETO DE SEGURANÇA</option>
+              <option value="78">78 - ASSOCIAÇÕES/PARQUES</option>
+              <option value="79">79 - FUNDO EMERGENCIAL</option>
+              <option value="80">80 - FUNDO JUDICIAL</option>
+              <option value="81">81 - FINANCIAMENTO</option>
+              <option value="82">82 - VERBA BLOCOS</option>
+              <option value="83">83 - AUDITORIA</option>
+              <option value="84">84 - BRINQUEDOS/LAZER</option>
+              <option value="85">85 - ENERGIA ELETRICA</option>
+              <option value="86">86 - CONTA REFORÇO DE CAIXA</option>
+              <option value="87">87 - DESAPROPRIAÇÃO</option>
+              <option value="88">88 - BICICLETÁRIO</option>
+              <option value="89">89 - Impermeabiliz/Jardim/Calçada</option>
+              <option value="90">90 - SEGUROS</option>
+              <option value="91">91 - SHOWS</option>
             </select>
           </td>
         </tr>
         <tr>
           <td>DATA/HORA</td>
-          <td>
-            <input class="inputMenor" type="text">
-            <input class="inputMenor" type="text">
-          </td>
+          <td id="data-hora"></td>
         </tr>
         <tr>
           <td colspan="2" class="primaryColor"></td>
@@ -218,7 +254,7 @@
         <tr>
           <td>ASSINATURA GERENTE</td>
           <td>
-            <input type="text" placeholder="Digite o nome do Gerente">
+            <input id="valorInput" type="text" placeholder="Digite o nome do Gerente">
           </td>
         </tr>
         <tr>
@@ -248,9 +284,10 @@
           </td>
         </tr>
       </table>
-      <button type="submit">Gerar</button>
-      <button type="submit">Imprimir</button>
-      <button type="submit">Limpar</button>
+      <button type="submit" class="gerar">Gerar</button>
+      <button type="submit" class="imprimir">Imprimir</button>
+      <button type="submit" class="limpar">Limpar</button>
     </div>
+    <script src="../js/main.js"></script>
   </body>
 </html>
