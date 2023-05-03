@@ -8,7 +8,7 @@
     <title>Contas a Pagar</title>
   </head>
   <body>
-    <div class="container">
+    <div class="container" id="tabela">
       <div class="inline">
         <img src="../img/selladm-logo.png">
         <h1>Formulário de contas a pagar</h1>
@@ -20,7 +20,12 @@
         </tr>
         <tr>
           <td style="font-weight: 650;">
-            <input type="text" id="codCond" placeholder="...">
+            <input
+              type="text"
+              id="codCond"
+              placeholder="..."
+              onkeyup="geraForm()"
+            >
           </td>
           <td id="cond">-</td>
         </tr>
@@ -49,6 +54,7 @@
               id="valorInput"
               class="inputMenor"
               placeholder="Digite o valor"
+              value=""
             >
           </td>
         </tr>
@@ -101,7 +107,7 @@
             <input
               type="text"
               name=""
-              id=""
+              id="valorInputPix"
               placeholder="Digite a chave pix"
             >
           </td>
@@ -278,15 +284,18 @@
             <textarea
               name="teste"
               id=""
-              cols="50"
+              cols="46"
               rows="6"
             ></textarea>
           </td>
         </tr>
       </table>
-      <button type="submit" class="gerar">Gerar</button>
-      <button type="submit" class="imprimir">Imprimir</button>
-      <button type="submit" class="limpar">Limpar</button>
+      <div id="msgErro">Preencha todos os campos!</div>
+      <br>
+    </div>
+    <div class="container2">
+      <button type="submit" class="imprimir" id="btn1">Imprimir</button>
+      <button type="submit" class="limpar" id="btn2">Limpar</button>
     </div>
     <script src="../js/main.js"></script>
   </body>

@@ -1,5 +1,5 @@
 .container {
-    width: 700px;
+    width: 745px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -7,6 +7,8 @@
 .inline {
     display: flex;
     margin-bottom: 10px;
+    font-size: 19px;
+    padding-left: 8px;
 }
 
 .primaryColor {
@@ -15,6 +17,10 @@
 
 .inputMenor {
     width: 184px;
+}
+
+h1 {
+    padding-left: 16px;
 }
 
 input {
@@ -28,6 +34,7 @@ td {
     border: 1px solid black;
     border-collapse: collapse;
     text-align: center;
+    margin: 0px;
 }
 
 th,
@@ -59,4 +66,40 @@ select {
 
 .selectStart {
     text-align: start;
+}
+
+.erros {
+    border: solid 1px red;
+    border-radius: 5px;
+}
+
+#msgErro {
+    display: none;
+    color: red;
+
+}
+
+button {
+    background: cornflowerblue;
+    color: white;
+    font-size: large;
+    border-radius: 5px;
+    align-items: center;
+    padding: 10px 30px 10px 30px;
+    margin-bottom: 25px;
+
+}
+
+button:hover {
+    background: rgb(55, 86, 143);
+}
+
+.container2 {
+    width: 300px;
+    padding-right: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+
 }
