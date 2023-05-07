@@ -49,7 +49,7 @@ document.addEventListener('click', e => {
 
 function validaCampos() {
     const erros = []
-    const inputs = document.querySelectorAll('#valorInput')
+    const inputs = document.querySelectorAll('.valorInput')
     const inputPix = document.querySelector('#valorInputPix')
     if (inputs[0].value === '') {
         erros.push('selecione uma data')

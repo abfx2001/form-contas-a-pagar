@@ -25,6 +25,7 @@
               id="codCond"
               placeholder="..."
               onkeyup="geraForm()"
+              class="valorInput"
             >
           </td>
           <td id="cond">-</td>
@@ -39,7 +40,7 @@
         <tr>
           <td>DATA PARA PAGAMENTO</td>
           <td>
-            <input id="valorInput" type="date">
+            <input id="valorInput" type="date" class="valorInput">
           </td>
         </tr>
         <tr>
@@ -52,7 +53,7 @@
             <input
               type="text"
               id="valorInput"
-              class="inputMenor"
+              class="inputMenor valorInput"
               placeholder="Digite o valor"
               value=""
             >
@@ -81,6 +82,7 @@
               name=""
               id="valorInput"
               placeholder="Digite o nome do Favorecido"
+              class="valorInput"
             >
           </td>
         </tr>
@@ -91,9 +93,10 @@
           <td>CNPJ/CPF</td>
           <td>
             <input
+              class="valorInput"
               type="text"
               name=""
-              id="valorInput"
+              id="inputCpfCnpj"
               placeholder="Digite o CNPJ/CPF"
             >
           </td>
@@ -123,6 +126,7 @@
               name=""
               id="valorInput"
               placeholder="Digite o número do banco"
+              class="valorInput"
             >
           </td>
         </tr>
@@ -132,7 +136,12 @@
         <tr>
           <td>AGÊNCIA</td>
           <td>
-            <input id="valorInput" type="text" placeholder="XXXXX">
+            <input
+              id="valorInput"
+              type="text"
+              placeholder="XXXXX"
+              class="valorInput"
+            >
           </td>
         </tr>
         <tr>
@@ -146,7 +155,12 @@
             </select>
           </td>
           <td>
-            <input id="valorInput" type="text" placeholder="XXXXXXX">
+            <input
+              id="valorInput"
+              type="text"
+              placeholder="XXXXXXX"
+              class="valorInput"
+            >
           </td>
         </tr>
         <tr>
@@ -260,7 +274,12 @@
         <tr>
           <td>ASSINATURA GERENTE</td>
           <td>
-            <input id="valorInput" type="text" placeholder="Digite o nome do Gerente">
+            <input
+              id="valorInput"
+              type="text"
+              placeholder="Digite o nome do Gerente"
+              class="valorInput"
+            >
           </td>
         </tr>
         <tr>
@@ -298,5 +317,6 @@
       <button type="submit" class="limpar" id="btn2">Limpar</button>
     </div>
     <script src="../js/main.js"></script>
+    <script src="../js/inputMask.js"></script>
   </body>
 </html>
