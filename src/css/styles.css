@@ -103,3 +103,7 @@ button:hover {
     justify-content: space-between;
 
 }
+
+.errosTd {
+    border: 3px solid red;
+}

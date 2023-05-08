@@ -25,7 +25,6 @@
               id="codCond"
               placeholder="..."
               onkeyup="geraForm()"
-              class="valorInput"
             >
           </td>
           <td id="cond">-</td>
@@ -40,7 +39,7 @@
         <tr>
           <td>DATA PARA PAGAMENTO</td>
           <td>
-            <input id="valorInput" type="date" class="valorInput">
+            <input type="date">
           </td>
         </tr>
         <tr>
@@ -51,11 +50,11 @@
           <td>
             R$:
             <input
-              type="text"
-              id="valorInput"
-              class="inputMenor valorInput"
-              placeholder="Digite o valor"
+              type="Text"
+              size="12"
+              onKeyUp="mascaraMoeda(this, event)"
               value=""
+              class="inputMenor"
             >
           </td>
         </tr>
@@ -77,13 +76,7 @@
         <tr>
           <td>FAVORECIDO</td>
           <td>
-            <input
-              type="text"
-              name=""
-              id="valorInput"
-              placeholder="Digite o nome do Favorecido"
-              class="valorInput"
-            >
+            <input type="text" placeholder="Digite o nome do Favorecido">
           </td>
         </tr>
         <tr>
@@ -93,11 +86,10 @@
           <td>CNPJ/CPF</td>
           <td>
             <input
-              class="valorInput"
               type="text"
-              name=""
               id="inputCpfCnpj"
               placeholder="Digite o CNPJ/CPF"
+              maxlength="18"
             >
           </td>
         </tr>
@@ -107,12 +99,7 @@
         <tr id="chavePix">
           <td>CHAVE PIX</td>
           <td>
-            <input
-              type="text"
-              name=""
-              id="valorInputPix"
-              placeholder="Digite a chave pix"
-            >
+            <input type="text" id="valorInputPix" placeholder="Digite a chave pix">
           </td>
         </tr>
         <tr id="linhaPix">
@@ -121,13 +108,7 @@
         <tr>
           <td>BANCO</td>
           <td>
-            <input
-              type="text"
-              name=""
-              id="valorInput"
-              placeholder="Digite o número do banco"
-              class="valorInput"
-            >
+            <input type="text" placeholder="Digite o número do banco">
           </td>
         </tr>
         <tr>
@@ -136,12 +117,7 @@
         <tr>
           <td>AGÊNCIA</td>
           <td>
-            <input
-              id="valorInput"
-              type="text"
-              placeholder="XXXXX"
-              class="valorInput"
-            >
+            <input type="text" placeholder="XXXXX">
           </td>
         </tr>
         <tr>
@@ -155,12 +131,7 @@
             </select>
           </td>
           <td>
-            <input
-              id="valorInput"
-              type="text"
-              placeholder="XXXXXXX"
-              class="valorInput"
-            >
+            <input type="text" placeholder="XXXXXXX">
           </td>
         </tr>
         <tr>
@@ -274,12 +245,7 @@
         <tr>
           <td>ASSINATURA GERENTE</td>
           <td>
-            <input
-              id="valorInput"
-              type="text"
-              placeholder="Digite o nome do Gerente"
-              class="valorInput"
-            >
+            <input type="text" placeholder="Digite o nome do Gerente">
           </td>
         </tr>
         <tr>
@@ -318,5 +284,6 @@
     </div>
     <script src="../js/main.js"></script>
     <script src="../js/inputMask.js"></script>
+    <script src="../js/timeStamp.js"></script>
   </body>
 </html>
