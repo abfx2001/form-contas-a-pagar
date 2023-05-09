@@ -65,8 +65,8 @@
           <td>FORMA DE PAGAMENTO</td>
           <td>
             <select name="formaDePagamento" id="formaDePagamento">
-              <option value="pix">PIX</option>
               <option value="transBanc">TRANSFERÊNCIA BANCÁRIA</option>
+              <option value="pix">PIX</option>
             </select>
           </td>
         </tr>
@@ -96,19 +96,16 @@
         <tr>
           <td colspan="2" class="primaryColor"></td>
         </tr>
-        <tr id="chavePix">
-          <td>CHAVE PIX</td>
-          <td>
-            <input type="text" id="valorInputPix" placeholder="Digite a chave pix">
-          </td>
-        </tr>
-        <tr id="linhaPix">
-          <td colspan="2" class="primaryColor"></td>
-        </tr>
+        <tr id="chavePix"></tr>
+        <tr id="linhaPix"></tr>
         <tr>
           <td>BANCO</td>
           <td>
-            <input type="text" placeholder="Digite o número do banco">
+            <form action="" autocomplete="off">
+              <div class="autocompleteWrapper" id="autocompleteWrapper">
+                <input id="autocompleteInput" type="text" placeholder="número ou nome do banco">
+              </div>
+            </form>
           </td>
         </tr>
         <tr>
@@ -279,11 +276,12 @@
       <br>
     </div>
     <div class="container2">
-      <button type="submit" class="imprimir" id="btn1">Imprimir</button>
-      <button type="submit" class="limpar" id="btn2">Limpar</button>
+      <button type="submit" class="imprimir btn-form" id="btn1">Imprimir</button>
+      <button type="submit" class="limpar btn-form" id="btn2">Limpar</button>
     </div>
     <script src="../js/main.js"></script>
     <script src="../js/inputMask.js"></script>
     <script src="../js/timeStamp.js"></script>
+    <script src="../js/autocomplet.js"></script>
   </body>
 </html>

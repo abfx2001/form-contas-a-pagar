@@ -2,6 +2,7 @@
 const selectPag = document.getElementById('formaDePagamento')
 const chavePix = document.getElementById('chavePix')
 const linhaPix = document.getElementById('linhaPix')
+const selecPix = document.getElementById('tipoPix')
 
 selectPag.addEventListener('change', function () {
     if (selectPag.value === 'transBanc') {
@@ -9,13 +10,21 @@ selectPag.addEventListener('change', function () {
         linhaPix.innerHTML = ''
     } else {
         chavePix.innerHTML = `
-        <td>CHAVE PIX</td>
-          <td>
-            <input
-              type="text"
-              id="valorInputPix"
-              placeholder="Digite a chave pix"
-            >
+        <td>
+            CHAVE PIX
+            <select name="tipoPix" id="tipoPix">
+              <option value="pixCpf">(CPF)</option>
+              <option value="pixEmail">(E-MAIL)</option>
+              <option value="pixTel">(TELEFONE)</option>
+            </select>
+        </td>
+            <td>
+                <input
+                type="text"
+                id="valorInputPix"
+                placeholder="Digite a chave pix"
+                >
+            </td>
         `
         linhaPix.innerHTML = `
         <tr id="linhaPix">
@@ -25,13 +34,20 @@ selectPag.addEventListener('change', function () {
     }
 })
 
+// selecPix.addEventListener('change', function () {
+//     if (selecPix.value === 'pixTel') {
+
+//     }
+// })
+
+
 document.addEventListener('click', e => {
     const el = e.target;
     const nomeClass = el.className.toLowerCase()
-    if (nomeClass === 'limpar') {
+    if (nomeClass === 'limpar btn-form') {
         e.preventDefault()
         window.location.reload()
-    } if (nomeClass === 'imprimir') {
+    } if (nomeClass === 'imprimir btn-form') {
         e.preventDefault()
         geraForm()
         imprimirTela()
