@@ -2,43 +2,64 @@
 const selectPag = document.getElementById('formaDePagamento')
 const chavePix = document.getElementById('chavePix')
 const linhaPix = document.getElementById('linhaPix')
-const selecPix = document.getElementById('tipoPix')
+
 
 selectPag.addEventListener('change', function () {
     if (selectPag.value === 'transBanc') {
         chavePix.innerHTML = ''
         linhaPix.innerHTML = ''
-    } else {
+    } if (selectPag.value === 'pixCpf') {
+        chavePix.innerHTML = ''
         chavePix.innerHTML = `
         <td>
-            CHAVE PIX
-            <select name="tipoPix" id="tipoPix">
-              <option value="pixCpf">(CPF)</option>
-              <option value="pixEmail">(E-MAIL)</option>
-              <option value="pixTel">(TELEFONE)</option>
-            </select>
+            CHAVE PIX (CPF)
         </td>
-            <td>
-                <input
-                type="text"
-                id="valorInputPix"
-                placeholder="Digite a chave pix"
-                >
-            </td>
+        <td id="tipoChavePix">
+            <input
+            type="text"
+            id="inputCpf"
+            placeholder="Digite o CPF da Chave Pix"
+            maxlength="14"
+            >
+        </td>
         `
         linhaPix.innerHTML = `
         <tr id="linhaPix">
           <td colspan="2" class="primaryColor"></td>
         </tr>
         `
+        const inputCpf = document.querySelector('#inputCpf');
+        inputCpf.addEventListener('input', function () {
+            mascaraMutuario(this, cpf);
+        });
+        inputCpf.addEventListener('blur', function () {
+            clearTimeout();
+        });
+        function mascaraMutuario(o, f) {
+            v_obj = o
+            v_fun = f
+            setTimeout(function () {
+                v_obj.value = v_fun(v_obj.value)
+            }, 1)
+        }
+        function cpf(v) {
+            v = v.replace(/\D/g, "")
+            if (v.length <= 11) { //CPF
+                v = v.replace(/(\d{3})(\d)/, "$1.$2")
+                v = v.replace(/(\d{3})(\d)/, "$1.$2")
+                v = v.replace(/(\d{3})(\d{1,2})$/, "$1-$2")
+            }
+            return v
+        }
     }
 })
 
-// selecPix.addEventListener('change', function () {
-//     if (selecPix.value === 'pixTel') {
+console.log(document.querySelector('#inputCpfCnpj'))
 
-//     }
-// })
+
+
+
+
 
 
 document.addEventListener('click', e => {
