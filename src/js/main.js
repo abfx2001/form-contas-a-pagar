@@ -51,10 +51,49 @@ selectPag.addEventListener('change', function () {
             }
             return v
         }
+    } if (selectPag.value === 'pixEmail') {
+        chavePix.innerHTML = ''
+        chavePix.innerHTML = `
+        <td>
+            CHAVE PIX (E-MAIL)
+        </td>
+        <td id="tipoChavePix">
+            <input 
+            style="text-transform: lowercase;"
+            type="email"
+            id="inputEmail"
+            placeholder="Digite o E-mail da Chave Pix"
+            >
+        </td>
+        `
+        linhaPix.innerHTML = `
+        <tr id="linhaPix">
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        `
+    } if (selectPag.value === 'pixTel') {
+        chavePix.innerHTML = ''
+        chavePix.innerHTML = `
+        <td>
+            CHAVE PIX (TELEFONE)
+        </td>
+        <td id="tipoChavePix">
+            <input
+            type="tel"
+            id="inputTel"
+            placeholder="Digite o Telefone da Chave Pix"
+            maxlength="15"
+            >
+        </td>
+        `
+        linhaPix.innerHTML = `
+        <tr id="linhaPix">
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        `
     }
 })
 
-console.log(document.querySelector('#inputCpfCnpj'))
 
 
 
@@ -86,6 +125,7 @@ function geraForm() {
     const condCNPJ = document.getElementById('condCNPJ')
     const valorCod = codCond.value.trim()
 
+
     if (codCond.value === '') {
         cond.innerHTML = '-'
         condCNPJ.innerHTML = '-'
@@ -95,23 +135,24 @@ function geraForm() {
         // }, 7000)
     } else {
         try {
-            fetch(`https://sheetdb.io/api/v1/hzhenxx3blavx/search?cod=${valorCod}`)
-                .then((response) => response.json())
-                .then((data) => {
-                    if (data[0] == undefined) {
-                        cond.innerHTML = 'Condomínio não encontrado'
-                        condCNPJ.innerHTML = 'CNPJ não encontrado'
-                    } else {
-                        cond.innerHTML = ''
-                        cond.innerHTML = `
-                        <td id="cond">${data[0].condominio}</td>
-                    `
-                        condCNPJ.innerHTML = ''
-                        condCNPJ.innerHTML = `
-                        <td id="condCNPJ">${data[0].cnpj}</td>
-                    `
-                    }
-                });
+            let idCond = [];
+            fetch("../condominios.json").then((response) => {
+                response.json().then((data) => {
+                    data.map((cods) => {
+                        if (cods.cod == codCond.value) {
+                            cond.innerHTML = ''
+                            cond.innerHTML = `
+                            <td id="cond">${cods.condominio}</td>
+                             `
+                            condCNPJ.innerHTML = ''
+                            condCNPJ.innerHTML = `
+                            <td id="condCNPJ">${cods.cnpj}</td>
+                             `
+                        }
+                    })
+
+                })
+            })
         } catch (e) {
             console.error(e)
         }

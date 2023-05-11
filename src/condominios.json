@@ -1,0 +1,1157 @@
+[
+    {
+        "cod": 1,
+        "condominio": "CONDOMINIO EDIFICIO PENTAGONO",
+        "cnpj": "54.610.548\/0001-82"
+    },
+    {
+        "cod": 2,
+        "condominio": "CONDOMINIO EDIFICIO PAÇO DE POMPEIA",
+        "cnpj": "64.160.609\/0001-00"
+    },
+    {
+        "cod": 11,
+        "condominio": "CONDOMINIO EDIFICIO JAZZ",
+        "cnpj": "00.771.075\/0001-76"
+    },
+    {
+        "cod": 12,
+        "condominio": "CONDOMINIO EDIFICIO FERCOLI",
+        "cnpj": "59.577.148\/0001-36"
+    },
+    {
+        "cod": 14,
+        "condominio": "CONDOMINIO EDIFICIO SUNSET VIEW",
+        "cnpj": "66.863.200\/0001-86"
+    },
+    {
+        "cod": 16,
+        "condominio": "CONDOMINIO MORADA DOS PÁSSAROS",
+        "cnpj": "01.053.714\/0001-20"
+    },
+    {
+        "cod": 26,
+        "condominio": "CONDOMINIO EDIFICIO MERIDIEN",
+        "cnpj": "71.929.657\/0001-86"
+    },
+    {
+        "cod": 29,
+        "condominio": "CONDOMÍNIO EDIFICIO GOLDEN PLACE",
+        "cnpj": "03.464.748\/0001-33"
+    },
+    {
+        "cod": 30,
+        "condominio": "CONDOMÍNIO EDIFÍCIO MONTE BIANCO",
+        "cnpj": "04.193.236\/0001-42"
+    },
+    {
+        "cod": 32,
+        "condominio": "CONDOMÍNIO EDIFÍCIO MARINA",
+        "cnpj": "00.542.313\/0001-71"
+    },
+    {
+        "cod": 35,
+        "condominio": "CONDOMÍNIO EDIFÍCIO PALAZZO FERRARA",
+        "cnpj": "02.925.852\/0001-15"
+    },
+    {
+        "cod": 38,
+        "condominio": "CONDOMINIO EDIFÍCIO PIAZZA ROMANA",
+        "cnpj": "04.879.662\/0001-34"
+    },
+    {
+        "cod": 39,
+        "condominio": "CONDOMÍNIO BOULEVARD ST. MICHAEL",
+        "cnpj": "04.984.706\/0001-96"
+    },
+    {
+        "cod": 45,
+        "condominio": "GRANDE E BENEMÉRITA LOJA PRUDENTE DE MOR",
+        "cnpj": "52.399.854\/0001-96"
+    },
+    {
+        "cod": 49,
+        "condominio": "CONDOMÍNIO EDIFICIO CASTEL DE PADOVA",
+        "cnpj": "58.397.571\/0001-91"
+    },
+    {
+        "cod": 50,
+        "condominio": "CONDOMINIO EDIFICIO THASSOS",
+        "cnpj": "06.063.084\/0001-99"
+    },
+    {
+        "cod": 52,
+        "condominio": "FLAT VILLAGE MARESIAS",
+        "cnpj": "06.241.423\/0001-80"
+    },
+    {
+        "cod": 56,
+        "condominio": "CONDOMINIO EDIF. MARQUÊS DE MONTE ALEGRE",
+        "cnpj": "66.062.605\/0001-15"
+    },
+    {
+        "cod": 60,
+        "condominio": "CONDOMÍNIO EDIFÍCIO GLÁUCIA",
+        "cnpj": "55.939.862\/0001-76"
+    },
+    {
+        "cod": 63,
+        "condominio": "CONDOMINIO EDIFICIO SAINT THOMAS",
+        "cnpj": "07.695.948\/0001-58"
+    },
+    {
+        "cod": 64,
+        "condominio": "CONDOMINIO EDIFICIO MANSÃO MOLIERE",
+        "cnpj": "55.226.138\/0001-03"
+    },
+    {
+        "cod": 66,
+        "condominio": "CONDOMÍNIO EDIFÍCIO LA DOLCE VITA",
+        "cnpj": "06.929.353\/0001-57"
+    },
+    {
+        "cod": 68,
+        "condominio": "CONDOMÍNIO EDIFÍCIO VILLA MIRÓ",
+        "cnpj": "02.834.169\/0001-72"
+    },
+    {
+        "cod": 70,
+        "condominio": "CONDOMINIO EDIFICIO MARIANA S STUDIUM",
+        "cnpj": "61.596.581\/0001-60"
+    },
+    {
+        "cod": 71,
+        "condominio": "CONDOMÍNIO EDIFÍCIO CASSIUS",
+        "cnpj": "54.204.615\/0001-69"
+    },
+    {
+        "cod": 78,
+        "condominio": "CONDOMÍNIO EDIFÍCIO ELIANE",
+        "cnpj": "54.001.078\/0001-50"
+    },
+    {
+        "cod": 80,
+        "condominio": "CONDOMINIO EDIFICIO BACCARELLI S HOUSE",
+        "cnpj": "57.276.792\/0001-49"
+    },
+    {
+        "cod": 81,
+        "condominio": "CONDOMÍNIO EDIFÍCIO MATRA",
+        "cnpj": "60.267.325\/0001-67"
+    },
+    {
+        "cod": 82,
+        "condominio": "CONDOMÍNIO EDIFÍCIO CASA DE FLORENÇA",
+        "cnpj": "69.106.706\/0001-39"
+    },
+    {
+        "cod": 83,
+        "condominio": "CONDOMÍNIO EDIFÍCIO MARQUÊS DE TARRAGONA",
+        "cnpj": "01.160.275\/0001-55"
+    },
+    {
+        "cod": 85,
+        "condominio": "CONDOMÍNIO EDIFÍCIO TORRES DE PIRITUBA",
+        "cnpj": "03.347.760\/0001-68"
+    },
+    {
+        "cod": 86,
+        "condominio": "CONDOMÍNIO EDIFÍCIO LONDON",
+        "cnpj": "09.558.652\/0001-10"
+    },
+    {
+        "cod": 88,
+        "condominio": "EDIFÍCIO ACQUA VILA ROMANA",
+        "cnpj": "10.216.942\/0001-65"
+    },
+    {
+        "cod": 89,
+        "condominio": "CONDOMÍNIO EDIFÍCIO HALL PAULISTANO",
+        "cnpj": "10.308.578\/0001-63"
+    },
+    {
+        "cod": 91,
+        "condominio": "CONDOMÍNIO EDIFÍCIO CAPOTE VALENTE",
+        "cnpj": "54.200.498\/0001-65"
+    },
+    {
+        "cod": 92,
+        "condominio": "CONDOMÍNIO EDIFÍCIO SUMARÉ TOWER",
+        "cnpj": "65.037.590\/0001-72"
+    },
+    {
+        "cod": 96,
+        "condominio": "CONDOMÍNIO EDIFÍCIO ROSA MARIA",
+        "cnpj": "55.067.383\/0001-07"
+    },
+    {
+        "cod": 98,
+        "condominio": "CONDOMÍNIO EDIFÍCIO PORTO FINO",
+        "cnpj": "60.736.287\/0001-44"
+    },
+    {
+        "cod": 102,
+        "condominio": "EDIFICIOS PIRITUBA E SÃO JOSÉ",
+        "cnpj": "55.150.064\/0001-60"
+    },
+    {
+        "cod": 103,
+        "condominio": "CONDOMÍNIO EDIFÍCIO EXCLUSIVE PERDIZES",
+        "cnpj": "09.352.794\/0001-27"
+    },
+    {
+        "cod": 104,
+        "condominio": "CONDOMÍNIO EDIFÍCIO GUAPORÉ",
+        "cnpj": "55.295.059\/0001-46"
+    },
+    {
+        "cod": 106,
+        "condominio": "CONDOMÍNIO EDIFÍCIO THE QUALITY PERDIZES",
+        "cnpj": "01.058.925\/0001-56"
+    },
+    {
+        "cod": 107,
+        "condominio": "CONDOMINIO ALLORI VILA ROMANA",
+        "cnpj": "10.951.082\/0001-03"
+    },
+    {
+        "cod": 109,
+        "condominio": "IGREJA UNIVERSAL DO REINO DE DEUS",
+        "cnpj": "29.744.778\/0001-97"
+    },
+    {
+        "cod": 110,
+        "condominio": "CONDOMÍNIO EDIFÍCIO SERRA DE BRAGANÇA",
+        "cnpj": "66.517.095\/0001-23"
+    },
+    {
+        "cod": 112,
+        "condominio": "CONDOMÍNIO EDIFÍCIO PRAIA DE CAMBORIÚ",
+        "cnpj": "54.285.119\/0001-87"
+    },
+    {
+        "cod": 118,
+        "condominio": "CONDOMÍNIO EDIFÍCIO HADDAD",
+        "cnpj": "13.302.246\/0001-60"
+    },
+    {
+        "cod": 121,
+        "condominio": "CONDOMÍNIO EDIFÍCIO JOÃO MOURA",
+        "cnpj": "60.264.892\/0001-60"
+    },
+    {
+        "cod": 123,
+        "condominio": "CONDOMÍNIO EDIFÍCIO EMILIO DE MENEZES",
+        "cnpj": "54.198.452\/0001-59"
+    },
+    {
+        "cod": 124,
+        "condominio": "CONDOMÍNIO EDIFÍCIO SAN GENNARO",
+        "cnpj": "55.491.237\/0001-04"
+    },
+    {
+        "cod": 125,
+        "condominio": "CONDOMÍNIO EDIFÍCIO SARAY",
+        "cnpj": "10.671.284\/0001-00"
+    },
+    {
+        "cod": 128,
+        "condominio": "CONDOMÍNIO EDIFICIO FLAMBOYANT",
+        "cnpj": "54.198.403\/0001-16"
+    },
+    {
+        "cod": 132,
+        "condominio": "CONDOMÍNIO EDIFÍCIO JOSÉ PASSARELLI",
+        "cnpj": "62.568.985\/0001-03"
+    },
+    {
+        "cod": 135,
+        "condominio": "CONDOMÍNIO EDIFÍCIO SINTONIA FREGUESIA D",
+        "cnpj": "15.458.954\/0001-10"
+    },
+    {
+        "cod": 138,
+        "condominio": "CONDOMÍNIO CASA DE ITÁLIA",
+        "cnpj": "01.938.938\/0001-10"
+    },
+    {
+        "cod": 141,
+        "condominio": "CONDOMÍNIO EDIFÍCIO SAN REMO",
+        "cnpj": "71.588.610\/0001-04"
+    },
+    {
+        "cod": 144,
+        "condominio": "CONDOMINIO EDIFICIO UFFICIO PERDIZES",
+        "cnpj": "05.673.188\/0001-52"
+    },
+    {
+        "cod": 145,
+        "condominio": "CONDOMINIO PODIUM VILA LEOPOLDINA",
+        "cnpj": "14.585.031\/0001-66"
+    },
+    {
+        "cod": 146,
+        "condominio": "CONDOMÍNIO EDIFÍCIO CONJ. RES. VILLAGE",
+        "cnpj": "61.607.222\/0001-61"
+    },
+    {
+        "cod": 147,
+        "condominio": "CONDOMINIO EDIFICIO ALENIR",
+        "cnpj": "55.402.481\/0001-53"
+    },
+    {
+        "cod": 149,
+        "condominio": "CONDOMINIO EDIFICIO BETULA",
+        "cnpj": "54.604.608\/0001-54"
+    },
+    {
+        "cod": 154,
+        "condominio": "CONDOMINIO EDIFICIO ANA CAROLINA",
+        "cnpj": "55.798.243\/0001-09"
+    },
+    {
+        "cod": 155,
+        "condominio": "CONDOMINIO EDIFICIO COURCHEVELLES",
+        "cnpj": "55.398.531\/0001-76"
+    },
+    {
+        "cod": 159,
+        "condominio": "CONDOMINIO EDIFICIO ANA CAPRI",
+        "cnpj": "65.523.292\/0001-92"
+    },
+    {
+        "cod": 160,
+        "condominio": "CONDOMINIO EDIFICIO PRINCETON",
+        "cnpj": "07.906.615\/0001-20"
+    },
+    {
+        "cod": 161,
+        "condominio": "CONDOMINIO EDIFICIO PIAZZA DI TRENTO",
+        "cnpj": "04.301.326\/0001-00"
+    },
+    {
+        "cod": 162,
+        "condominio": "CONDOMINIO COLORADO TOWN HOUSE",
+        "cnpj": "03.944.921\/0001-09"
+    },
+    {
+        "cod": 163,
+        "condominio": "CONDOMINIO EDIF SAN FRANCESCO DI PAOLA",
+        "cnpj": "55.702.450\/0001-18"
+    },
+    {
+        "cod": 166,
+        "condominio": "APL PALM HILLS GRANJA VIANNA RESIDENCE",
+        "cnpj": "09.390.101\/0001-90"
+    },
+    {
+        "cod": 167,
+        "condominio": "CONDOMINIO EDIFICIO CHATEAU D´ AVIGNON",
+        "cnpj": "09.071.371\/0001-39"
+    },
+    {
+        "cod": 170,
+        "condominio": "CONDOMINIO EDIFICIO PANORAMA",
+        "cnpj": "55.223.010\/0001-88"
+    },
+    {
+        "cod": 172,
+        "condominio": "SELL ADMINISTRADORA X ZAFIR\/COBEFIR",
+        "cnpj": "14.804.150\/0001-62"
+    },
+    {
+        "cod": 177,
+        "condominio": "CONDOMINIO EDIFÍCIO VILLAGIO SPLENDORE",
+        "cnpj": "09.262.267\/0001-21"
+    },
+    {
+        "cod": 179,
+        "condominio": "CONDOMINIO EDIFICIO CAMPO GRANDE",
+        "cnpj": "62.030.382\/0001-53"
+    },
+    {
+        "cod": 180,
+        "condominio": "EDIFÍCIO NEXT OFFICE ALTO DA LAPA",
+        "cnpj": "21.454.127\/0001-50"
+    },
+    {
+        "cod": 182,
+        "condominio": "NEW VISION SANTANA",
+        "cnpj": "14.538.822\/0001-35"
+    },
+    {
+        "cod": 184,
+        "condominio": "CONDOMÍNIO VITALLE HOME CLUB",
+        "cnpj": "19.648.676\/0001-14"
+    },
+    {
+        "cod": 186,
+        "condominio": "CONDOMINIO EDIFICIO ANTONIO TOMAZ",
+        "cnpj": "04.079.973\/0001-19"
+    },
+    {
+        "cod": 187,
+        "condominio": "CONDOMINIO PASSEIO VILA LEOPOLDINA",
+        "cnpj": "17.092.048\/0001-70"
+    },
+    {
+        "cod": 190,
+        "condominio": "EDIFÍCIO CAMBURIU",
+        "cnpj": "25.195.839\/0001-53"
+    },
+    {
+        "cod": 192,
+        "condominio": "CONDOMINIO ATUA MOOCA I",
+        "cnpj": "18.433.269\/0001-27"
+    },
+    {
+        "cod": 198,
+        "condominio": "ROSSI VILA OFFICE",
+        "cnpj": "21.407.780\/0001-69"
+    },
+    {
+        "cod": 199,
+        "condominio": "CONDOMINIO EDIFICIO CASA DE FRANÇA",
+        "cnpj": "01.207.937\/0001-03"
+    },
+    {
+        "cod": 200,
+        "condominio": "EDIFICIO JACARANDÁ",
+        "cnpj": "03.997.724\/0001-40"
+    },
+    {
+        "cod": 202,
+        "condominio": "CONDOMÍNIO EDIFÍCIO ARAGUARI",
+        "cnpj": "00.917.510\/0001-28"
+    },
+    {
+        "cod": 203,
+        "condominio": "CONDOMÍNIO EDIFÍCIO RIO ARAGUAIA",
+        "cnpj": "00.871.828\/0001-15"
+    },
+    {
+        "cod": 205,
+        "condominio": "CONDOMÍNIO GIARDINO D'ITÁLIA",
+        "cnpj": "04.154.011\/0001-87"
+    },
+    {
+        "cod": 207,
+        "condominio": "CONDOMÍNIO EDIFÍCIO DANIELA",
+        "cnpj": "55.685.739\/0001-76"
+    },
+    {
+        "cod": 216,
+        "condominio": "CONDOMÍNIO EDIFÍCIO TORRE DI FIRENZE",
+        "cnpj": "04.431.621\/0001-80"
+    },
+    {
+        "cod": 217,
+        "condominio": "CONDOMÍNIO VILLAGIO DEL SOLE",
+        "cnpj": "09.378.980\/0001-35"
+    },
+    {
+        "cod": 218,
+        "condominio": "RESIDENCIAL HELBOR L ALTO PERDIZES",
+        "cnpj": "20.268.982\/0001-04"
+    },
+    {
+        "cod": 219,
+        "condominio": "CONDOMÍNIO REFUGE",
+        "cnpj": "08.907.918\/0001-20"
+    },
+    {
+        "cod": 220,
+        "condominio": "EDIFICIO HERITAGE HOMEM DE MELO",
+        "cnpj": "17.314.848\/0001-98"
+    },
+    {
+        "cod": 221,
+        "condominio": "ASSOCIACAO DOS PROP RESERVA SANTA PAULA",
+        "cnpj": "15.022.012\/0001-94"
+    },
+    {
+        "cod": 222,
+        "condominio": "CONDOMINIO MASSIMO VILA MASCOTE",
+        "cnpj": "26.745.712\/0001-23"
+    },
+    {
+        "cod": 223,
+        "condominio": "CONDOMINIO EDIFICIO AGUA BRANCA",
+        "cnpj": "54.365.135\/0001-80"
+    },
+    {
+        "cod": 225,
+        "condominio": "EDIFICIO LANDSCAPE PERDIZES",
+        "cnpj": "22.647.105\/0001-70"
+    },
+    {
+        "cod": 226,
+        "condominio": "CONDOMINIO EDIFICIO SAINT PAUL DE LEON",
+        "cnpj": "38.891.586\/0001-02"
+    },
+    {
+        "cod": 227,
+        "condominio": "EDIFICIO ATRIA",
+        "cnpj": "10.644.860\/0001-11"
+    },
+    {
+        "cod": 228,
+        "condominio": "CONDOMINIO EDIFICIO MAISON LARA",
+        "cnpj": "02.467.534\/0001-58"
+    },
+    {
+        "cod": 229,
+        "condominio": "CONDOMINIO MIRANTE BONSUCESSO",
+        "cnpj": "11.776.026\/0001-42"
+    },
+    {
+        "cod": 230,
+        "condominio": "EDIFICIO TENDENCY POMPEIA",
+        "cnpj": "27.159.964\/0001-33"
+    },
+    {
+        "cod": 232,
+        "condominio": "CONDOMÍNIO JOREN",
+        "cnpj": "54.570.650\/0001-00"
+    },
+    {
+        "cod": 233,
+        "condominio": "CONDOMÍNIO RESIDENCIAL INTERLAGOS",
+        "cnpj": "65.500.936\/0001-27"
+    },
+    {
+        "cod": 234,
+        "condominio": "CONDOMÍNIO BARÃO DE MAUÁ",
+        "cnpj": "54.065.800\/0001-10"
+    },
+    {
+        "cod": 235,
+        "condominio": "CONDOMÍNIO DOS PÁSSAROS",
+        "cnpj": "29.780.787\/0001-33"
+    },
+    {
+        "cod": 237,
+        "condominio": "CONDOMINIO L ESPACE",
+        "cnpj": "17.689.873\/0001-56"
+    },
+    {
+        "cod": 238,
+        "condominio": "CONDOMÍNIO MORADA INGLESA",
+        "cnpj": "07.187.772\/0001-23"
+    },
+    {
+        "cod": 241,
+        "condominio": "CONDOMINIO ANA CRISTINA",
+        "cnpj": "54.959.978\/0001-04"
+    },
+    {
+        "cod": 242,
+        "condominio": "CONDOMÍNIO PORTAL VISTALLEGRO",
+        "cnpj": "30.481.750\/0001-93"
+    },
+    {
+        "cod": 243,
+        "condominio": "CONDOMÍNIO EDIFÍCIO LIMEIRA",
+        "cnpj": "00.066.094\/0001-00"
+    },
+    {
+        "cod": 244,
+        "condominio": "ASSOC DOS PROP BELLA VITTA VISTA VERDE",
+        "cnpj": "14.788.365\/0001-37"
+    },
+    {
+        "cod": 245,
+        "condominio": "CONDOMINIO EDIFICIO NATAL I I",
+        "cnpj": "04.585.664\/0001-10"
+    },
+    {
+        "cod": 246,
+        "condominio": "CONDOMINIO TOM PARQUE SAO DOMINGOS",
+        "cnpj": "30.434.341\/0001-36"
+    },
+    {
+        "cod": 249,
+        "condominio": "CONDOMÍNIO RESIDENCIAL BRISBANE",
+        "cnpj": "29.515.766\/0001-90"
+    },
+    {
+        "cod": 251,
+        "condominio": "CONDOMÍNIO NEW JAZZ",
+        "cnpj": "12.339.409\/0001-16"
+    },
+    {
+        "cod": 252,
+        "condominio": "CONDOMÍNIO MALAGA",
+        "cnpj": "00.230.539\/0001-37"
+    },
+    {
+        "cod": 253,
+        "condominio": "COND. EDIF. CLAUDIO TOZZI",
+        "cnpj": "58.395.492\/0001-41"
+    },
+    {
+        "cod": 255,
+        "condominio": "CONDOMÍNIO ROMILDA AGUIAR",
+        "cnpj": "71.713.226\/0001-88"
+    },
+    {
+        "cod": 258,
+        "condominio": "CONDOMINIO MAR DAS ANTILHAS",
+        "cnpj": "03.111.187\/0001-99"
+    },
+    {
+        "cod": 259,
+        "condominio": "CONDOMINIO VILA SIENA",
+        "cnpj": "01.073.068\/0001-63"
+    },
+    {
+        "cod": 261,
+        "condominio": "CONDOMINIO CIALGA",
+        "cnpj": "00.068.311\/0001-92"
+    },
+    {
+        "cod": 263,
+        "condominio": "CONDOMINIO UPPER OFFICE",
+        "cnpj": "17.918.937\/0001-43"
+    },
+    {
+        "cod": 264,
+        "condominio": "EDIFICIO LA PLACE - OFFICE PERDIZES",
+        "cnpj": "20.865.936\/0001-92"
+    },
+    {
+        "cod": 265,
+        "condominio": "EDIFICIO PARK VIEW PERDIZES",
+        "cnpj": "21.396.620\/0001-61"
+    },
+    {
+        "cod": 268,
+        "condominio": "CONDOMÍNIO FORME",
+        "cnpj": "26.247.686\/0001-03"
+    },
+    {
+        "cod": 269,
+        "condominio": "CONDOMÍNIO MORADA DA BOA VISTA 2",
+        "cnpj": "54.638.069\/0001-74"
+    },
+    {
+        "cod": 272,
+        "condominio": "CONDOMINIO NOUVEAU",
+        "cnpj": "07.953.103\/0001-15"
+    },
+    {
+        "cod": 273,
+        "condominio": "CONDOMINIO ROMANEE",
+        "cnpj": "23.797.102\/0001-85"
+    },
+    {
+        "cod": 274,
+        "condominio": "CONDOMINIO CYRELA INSPIRED",
+        "cnpj": "30.481.702\/0001-03"
+    },
+    {
+        "cod": 275,
+        "condominio": "CONDOMINIO VILLA DI CARLA",
+        "cnpj": "66.651.621\/0001-43"
+    },
+    {
+        "cod": 277,
+        "condominio": "CONDOMÍNIO EDIFÍCIO MAESTRO",
+        "cnpj": "11.316.331\/0001-51"
+    },
+    {
+        "cod": 278,
+        "condominio": "CONDOMINIO AMARILLYS",
+        "cnpj": "11.597.446\/0001-61"
+    },
+    {
+        "cod": 279,
+        "condominio": "CONDOMÍNIO PARNASSE",
+        "cnpj": "69.271.054\/0001-98"
+    },
+    {
+        "cod": 283,
+        "condominio": "CONDOMINIO VERANA",
+        "cnpj": "11.246.820\/0001-84"
+    },
+    {
+        "cod": 284,
+        "condominio": "CONDOMINIO SAINT PAUL",
+        "cnpj": "01.209.702\/0001-42"
+    },
+    {
+        "cod": 285,
+        "condominio": "CONDOMINIO JARDIM AMERICA",
+        "cnpj": "38.880.209\/0001-60"
+    },
+    {
+        "cod": 286,
+        "condominio": "CONDOMÍNIO EDIFÍCIO CORSEGA",
+        "cnpj": "61.848.537\/0001-09"
+    },
+    {
+        "cod": 287,
+        "condominio": "CONDOMÍNIO EDIFÍCIO IPOJUCA",
+        "cnpj": "96.294.913\/0001-37"
+    },
+    {
+        "cod": 288,
+        "condominio": "EDIFICIO ETOILE",
+        "cnpj": "08.944.315\/0001-07"
+    },
+    {
+        "cod": 290,
+        "condominio": "EDIFICIO VITRE VILA ROMANA",
+        "cnpj": "22.326.729\/0001-95"
+    },
+    {
+        "cod": 291,
+        "condominio": "CONDOMINIO BRAIDO TOWER",
+        "cnpj": "02.133.430\/0001-07"
+    },
+    {
+        "cod": 292,
+        "condominio": "EDIFICIO VERANDA",
+        "cnpj": "10.224.423\/0001-49"
+    },
+    {
+        "cod": 293,
+        "condominio": "CONDOMÍNIO MIRANTE DO SOL",
+        "cnpj": "31.326.932\/0001-52"
+    },
+    {
+        "cod": 294,
+        "condominio": "EDIFICIO TCE OFFICE TOWER",
+        "cnpj": "04.323.540\/0001-67"
+    },
+    {
+        "cod": 295,
+        "condominio": "CONDOMINIO MAR DAS CARAIBAS",
+        "cnpj": "01.909.285\/0001-40"
+    },
+    {
+        "cod": 296,
+        "condominio": "CONDOMÍNIO EDIFÍCIO NARCISO ORSOLETTI",
+        "cnpj": "NULL"
+    },
+    {
+        "cod": 297,
+        "condominio": "CONDOMÍNIO CASA LEOPOLDINA",
+        "cnpj": "34.537.120\/0001-44"
+    },
+    {
+        "cod": 298,
+        "condominio": "EDIFICIO TRIO PERDIZES",
+        "cnpj": "28.638.342\/0001-50"
+    },
+    {
+        "cod": 299,
+        "condominio": "CONDOMÍNIO RADIAL OFFICES",
+        "cnpj": "NULL"
+    },
+    {
+        "cod": 301,
+        "condominio": "CONDOMINIO EDIFICIO LARI",
+        "cnpj": "69.101.855\/0001-05"
+    },
+    {
+        "cod": 302,
+        "condominio": "CONDOMINIO AUTORAL",
+        "cnpj": "33.950.930\/0001-65"
+    },
+    {
+        "cod": 303,
+        "condominio": "CONDOMINIO EDIFICIO MARCIO",
+        "cnpj": "67.644.807\/0001-38"
+    },
+    {
+        "cod": 304,
+        "condominio": "CONDOMINIO EDIFICIO FOZZATI",
+        "cnpj": "67.984.062\/0001-56"
+    },
+    {
+        "cod": 305,
+        "condominio": "CONDOMINIO EDIFICIO MYCENE",
+        "cnpj": "04.474.601\/0001-97"
+    },
+    {
+        "cod": 306,
+        "condominio": "CONDOMINIO EDIFICIO ROGÉRIO LEVORIN",
+        "cnpj": "04.479.897\/0001-39"
+    },
+    {
+        "cod": 308,
+        "condominio": "CONDOMINIO EDIFICIO VENETO",
+        "cnpj": "54.206.115\/0001-66"
+    },
+    {
+        "cod": 309,
+        "condominio": "CONDOMINIO EDIFICIO ROSELY",
+        "cnpj": "60.530.904\/0001-50"
+    },
+    {
+        "cod": 310,
+        "condominio": "CONDOMINIO EDIFICIO ALBERTA PAVAN",
+        "cnpj": "02.888.367\/0001-19"
+    },
+    {
+        "cod": 311,
+        "condominio": "CONDOMINIO EDIFICIO LUIZ DE CAMÕES",
+        "cnpj": "55.167.050\/0001-50"
+    },
+    {
+        "cod": 312,
+        "condominio": "CONDOMINIO EDIFICIO PEDRA BRANCA",
+        "cnpj": "65.523.482\/0001-00"
+    },
+    {
+        "cod": 313,
+        "condominio": "CONDOMINIO EDIFICIO MENDES DA SILVA",
+        "cnpj": "55.538.698\/0001-95"
+    },
+    {
+        "cod": 315,
+        "condominio": "CONDOMINIO EDIFICIO VILA ANGELA",
+        "cnpj": "07.590.614\/0001-10"
+    },
+    {
+        "cod": 316,
+        "condominio": "COND. EDIFICIO AGUA BRANCA CORIOLANO",
+        "cnpj": "54.202.981\/0001-89"
+    },
+    {
+        "cod": 318,
+        "condominio": "EDIFICIO MONTE HERMOM",
+        "cnpj": "11.294.909\/0001-16"
+    },
+    {
+        "cod": 319,
+        "condominio": "CONDOMINIO EDIFICIO RENAISSANCE",
+        "cnpj": "17.703.487\/0001-71"
+    },
+    {
+        "cod": 320,
+        "condominio": "CONDOMINIO EDIFICIO SOLAR DOS BUZIOS",
+        "cnpj": "67.981.159\/0001-05"
+    },
+    {
+        "cod": 321,
+        "condominio": "CONDOMINIO EDIFICIO SÃO JOSÉ",
+        "cnpj": "00.310.039\/0001-05"
+    },
+    {
+        "cod": 323,
+        "condominio": "CONDOMINIO EDIFICIO SANTA TEREZA",
+        "cnpj": "69.131.662\/0001-05"
+    },
+    {
+        "cod": 324,
+        "condominio": "CONDOMINIO EDIFICIO MARIA MAGDALENA",
+        "cnpj": "69.273.688\/0001-80"
+    },
+    {
+        "cod": 326,
+        "condominio": "CONDOMINIO EDIFICIO EMBAUVA",
+        "cnpj": "58.644.789\/0001-01"
+    },
+    {
+        "cod": 327,
+        "condominio": "CONDOMINIO EDIFICIO TRIESSE III",
+        "cnpj": "65.515.025\/0001-73"
+    },
+    {
+        "cod": 328,
+        "condominio": "CONDOMINIO EDIFICIO NOVA YORK",
+        "cnpj": "54.663.505\/0001-65"
+    },
+    {
+        "cod": 329,
+        "condominio": "CONDOMINIO EDIFICIO TROPICAL",
+        "cnpj": "65.520.967\/0001-40"
+    },
+    {
+        "cod": 331,
+        "condominio": "CONDOMINIO EDIFICIO NAZARETH",
+        "cnpj": "69.108.322\/0001-55"
+    },
+    {
+        "cod": 332,
+        "condominio": "CONDOMINIO EDIFICIO HERCILIO ARJONA",
+        "cnpj": "64.162.753\/0001-86"
+    },
+    {
+        "cod": 333,
+        "condominio": "CONDOMINIO EDIFICIO SARAH",
+        "cnpj": "54.208.939\/0001-75"
+    },
+    {
+        "cod": 334,
+        "condominio": "CONDOMINIO EDIFICIO TURIACU",
+        "cnpj": "65.716.771\/0001-25"
+    },
+    {
+        "cod": 335,
+        "condominio": "RESIDENCIAL MARCO AURELIO",
+        "cnpj": "37.290.783\/0001-03"
+    },
+    {
+        "cod": 336,
+        "condominio": "CONDOMINIO EDIFICIO RIO DE JANEIRO",
+        "cnpj": "67.147.124\/0001-75"
+    },
+    {
+        "cod": 337,
+        "condominio": "RESIDENCIAL DI MAURO",
+        "cnpj": "05.406.709\/0001-05"
+    },
+    {
+        "cod": 339,
+        "condominio": "PARQUE CENTRAL RESERVA",
+        "cnpj": "42.734.730\/0001-66"
+    },
+    {
+        "cod": 341,
+        "condominio": "CONDOMÍNIO EDIFICIO MARIA CUSTODIO",
+        "cnpj": "69.274.538\/0001-90"
+    },
+    {
+        "cod": 342,
+        "condominio": "CONDOMÍNIO EDIFICIO BARÃO DE POMPÉIA",
+        "cnpj": "05.846.247\/0001-47"
+    },
+    {
+        "cod": 344,
+        "condominio": "CONDOMINIO ARIA VILA ROMANA",
+        "cnpj": "16.628.072\/0001-18"
+    },
+    {
+        "cod": 346,
+        "condominio": "CONDOMÍNIO EDIFÍCIO TERRAZZO",
+        "cnpj": "12.291.726\/0001-00"
+    },
+    {
+        "cod": 347,
+        "condominio": "CONDOMÍNIO EDIFICIO ANTIGUA",
+        "cnpj": "04.799.058\/0001-06"
+    },
+    {
+        "cod": 348,
+        "condominio": "COND.EDIF. SAINT THOMAS - MONTE ALEGRE",
+        "cnpj": "03.049.068\/0001-53"
+    },
+    {
+        "cod": 349,
+        "condominio": "CONDOMINIO VILLA FIORINA",
+        "cnpj": "03.464.636\/0001-82"
+    },
+    {
+        "cod": 350,
+        "condominio": "RESIDENCIAL BONSUCESSO",
+        "cnpj": "25.301.838\/0001-46"
+    },
+    {
+        "cod": 351,
+        "condominio": "CONDOMINIO EDIFICIO PAULO VI",
+        "cnpj": "66.868.761\/0001-78"
+    },
+    {
+        "cod": 353,
+        "condominio": "EDIFICIO ETERN IBIRAPUERA",
+        "cnpj": "46.106.268\/0001-03"
+    },
+    {
+        "cod": 355,
+        "condominio": "CONDOMINIO EDIFICIO SAINT JACQUES",
+        "cnpj": "68.151.802\/0001-36"
+    },
+    {
+        "cod": 356,
+        "condominio": "CONDOMINIO EDIFICIO JUREIA I",
+        "cnpj": "28.611.388\/0001-86"
+    },
+    {
+        "cod": 357,
+        "condominio": "CONDOMINIO EDIFICIO COSTA RICA",
+        "cnpj": "00.078.981\/0001-90"
+    },
+    {
+        "cod": 358,
+        "condominio": "CONDOMÍNIO COLINAS DO SUMARE",
+        "cnpj": "01.056.124\/0001-51"
+    },
+    {
+        "cod": 359,
+        "condominio": "CONJ, HAB. PONTE DOS REMEDIOS - F2",
+        "cnpj": "45.058.094\/0001-98"
+    },
+    {
+        "cod": 360,
+        "condominio": "CONDOMINIO EDIFICIO CAP D´ANTIBES",
+        "cnpj": "54.931.167\/0001-03"
+    },
+    {
+        "cod": 361,
+        "condominio": "CONDOMINIO PIRES DE CAMARGO",
+        "cnpj": "47.954.175\/0001-00"
+    },
+    {
+        "cod": 362,
+        "condominio": "CONDOMINIO EDIFICIO ITAJUBA",
+        "cnpj": "01.368.019\/0001-58"
+    },
+    {
+        "cod": 363,
+        "condominio": "RESIDENCIAL BLUE SKY",
+        "cnpj": "12.519.795\/0001-28"
+    },
+    {
+        "cod": 364,
+        "condominio": "CONDOMINIO EDIFICIO VILA DEL REY",
+        "cnpj": "64.160.427\/0001-30"
+    },
+    {
+        "cod": 365,
+        "condominio": "CONJ. HAB. PONTE DOS REMEDIOS - F1",
+        "cnpj": "45.197.085\/0001-88"
+    },
+    {
+        "cod": 366,
+        "condominio": "COND.DO CENTRO DE TRADIÇÕES NORDESTINAS",
+        "cnpj": "08.683.677\/0001-83"
+    },
+    {
+        "cod": 367,
+        "condominio": "EDIFICIO FRAME",
+        "cnpj": "34.442.611\/0001-01"
+    },
+    {
+        "cod": 368,
+        "condominio": "PARQUE CENTRAL BOULEVARD",
+        "cnpj": "47.697.356\/0001-90"
+    },
+    {
+        "cod": 369,
+        "condominio": "ECOLIFE VILA LEOPOLDINA",
+        "cnpj": "11.229.422\/0001-50"
+    },
+    {
+        "cod": 370,
+        "condominio": "EDIFICIO DREAMS",
+        "cnpj": "17.624.505\/0001-20"
+    },
+    {
+        "cod": 371,
+        "condominio": "CONDOMINIO MIAMI GARDENS",
+        "cnpj": "04.166.238\/0001-42"
+    },
+    {
+        "cod": 372,
+        "condominio": "CONDOMINIO EDIFICIO LA PROMENADE",
+        "cnpj": "07.485.387\/0001-62"
+    },
+    {
+        "cod": 373,
+        "condominio": "CONDOMINIO CRISTAIS DA TERRA",
+        "cnpj": "13.342.755\/0001-16"
+    },
+    {
+        "cod": 374,
+        "condominio": "CONDOMINIO VIVANTI",
+        "cnpj": "35.714.169\/0001-98"
+    },
+    {
+        "cod": 375,
+        "condominio": "CONDOMINIO EDIFICIO PERES DE OLIVEIRA",
+        "cnpj": "67.835.371\/0001-64"
+    },
+    {
+        "cod": 376,
+        "condominio": "CONDOMINIO PALACETE CHAVANTES",
+        "cnpj": "61.364.246\/0001-37"
+    },
+    {
+        "cod": 377,
+        "condominio": "EDIFICIO ATLANTIC",
+        "cnpj": "10.776.238\/0001-67"
+    },
+    {
+        "cod": 378,
+        "condominio": "CONDOMINIO RESIDENCIAL 25 DE JANEIRO",
+        "cnpj": "09.814.474\/0001-41"
+    },
+    {
+        "cod": 379,
+        "condominio": "CONDOMINIO EDIFICIO GUIARÁ",
+        "cnpj": "55.234.215\/0001-69"
+    },
+    {
+        "cod": 380,
+        "condominio": "CONDOMINIO MANSAO DO BUTANTA",
+        "cnpj": "71.928.170\/0001-89"
+    },
+    {
+        "cod": 381,
+        "condominio": "CONDOMINIO VISTA ARBORIS RESIDENCIAL",
+        "cnpj": "21.268.575\/0001-60"
+    },
+    {
+        "cod": 382,
+        "condominio": "CONDOMINIO EDIF. DELFIM",
+        "cnpj": "65.520.405\/0001-04"
+    },
+    {
+        "cod": 383,
+        "condominio": "CONDOMINIO COLORE JAGUARE",
+        "cnpj": "21.263.284\/0001-89"
+    },
+    {
+        "cod": 384,
+        "condominio": "CONDOMINIO EDIFICIO GISANROAN",
+        "cnpj": "32.324.036\/0001-17"
+    },
+    {
+        "cod": 385,
+        "condominio": "EDIFICIO RAFFAELLO",
+        "cnpj": "02.669.795\/0001-50"
+    },
+    {
+        "cod": 386,
+        "condominio": "CONDOMINIO SPAZIO MIRANTE DAS AGUAS",
+        "cnpj": "37.556.229\/0001-17"
+    },
+    {
+        "cod": 387,
+        "condominio": "CONDOMINIO EDIFICIO BORDEAUX",
+        "cnpj": "54.748.827\/0001-07"
+    },
+    {
+        "cod": 388,
+        "condominio": "CONDOMINIO EDIFICIO MAISON GALLE",
+        "cnpj": "03.212.596\/0001-81"
+    },
+    {
+        "cod": 389,
+        "condominio": "CONDOMÍNIO EDIFÍCIO ANTIBES",
+        "cnpj": "54.238.803\/0001-08"
+    },
+    {
+        "cod": 390,
+        "condominio": "CONDOMINIO EDIFICIO CARAGUATATUBA",
+        "cnpj": "62.568.365\/0001-74"
+    },
+    {
+        "cod": 391,
+        "condominio": "CONDOMINIO EDIFICIO SANTA IGNEZ",
+        "cnpj": "00.091.767\/0001-73"
+    },
+    {
+        "cod": 392,
+        "condominio": "EDIFICIO TIMES",
+        "cnpj": "17.302.487\/0001-60"
+    },
+    {
+        "cod": 393,
+        "condominio": "CONDOMINIO EDIFICIO SOLAR DO PACAEMBU",
+        "cnpj": "59.842.948\/0001-37"
+    }
+]
