@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="pt:BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./styles.css">
+    <title>Contas a Pagar</title>
+  </head>
+  <body>
+    <div class="container" id="tabela">
+      <div class="inline">
+        <img src="./selladm-logo.png">
+        <h1>Formulário de contas a pagar</h1>
+      </div>
+      <table>
+        <tr>
+          <th>COD</th>
+          <th>CONDOMÍNIO</th>
+        </tr>
+        <tr>
+          <td style="font-weight: 650;">
+            <input
+              type="text"
+              id="codCond"
+              placeholder="..."
+              onkeyup="geraForm()"
+            >
+          </td>
+          <td id="cond">-</td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>CNPJ</td>
+          <td id="condCNPJ">-</td>
+        </tr>
+        <tr>
+          <td>DATA PARA PAGAMENTO</td>
+          <td>
+            <input type="date">
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>VALOR</td>
+          <td>
+            R$:
+            <input
+              type="Text"
+              size="12"
+              onKeyUp="mascaraMoeda(this, event)"
+              value=""
+              class="inputMenor"
+            >
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>FORMA DE PAGAMENTO</td>
+          <td>
+            <select name="formaDePagamento" id="formaDePagamento">
+              <option value="transBanc">TRANSFERÊNCIA BANCÁRIA</option>
+              <option value="pixCpf">PIX CHAVE(CPF)</option>
+              <option value="pixEmail">PIX CHAVE(Email)</option>
+              <option value="pixTel">PIX CHAVE(Telefone)</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>FAVORECIDO</td>
+          <td>
+            <input type="text" placeholder="Digite o nome do Favorecido">
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>CNPJ/CPF</td>
+          <td>
+            <input
+              type="text"
+              id="inputCpfCnpj"
+              placeholder="Digite o CNPJ/CPF"
+              maxlength="18"
+            >
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr id="chavePix"></tr>
+        <tr id="linhaPix"></tr>
+        <tr>
+          <td>BANCO</td>
+          <td>
+            <form action="" autocomplete="off">
+              <div class="autocompleteWrapper" id="autocompleteWrapper">
+                <input id="autocompleteInput" type="text" placeholder="número ou nome do banco">
+              </div>
+            </form>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>AGÊNCIA</td>
+          <td>
+            <input type="text" placeholder="XXXXX">
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>
+            <select name="tipoConta" id="tipoConta">
+              <option value="corrente">CONTA CORRENTE</option>
+              <option value="poupanca">CONTA POUPANÇA</option>
+            </select>
+          </td>
+          <td>
+            <input type="text" placeholder="XXXXXXX">
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>CONTA CONTÁBIL</td>
+          <td>
+            <select name="tipoContabil" id="tipoContabil" class="selectStart">
+              <option value="01">01 - ORDINÁRIA</option>
+              <option value="02">02 - FUNDO DE RESERVA</option>
+              <option value="03">03 - PROVISAO TRABALHISTA</option>
+              <option value="04">04 - OBRAS</option>
+              <option value="05">05 - MELHORIAS</option>
+              <option value="06">06 - BENFEITORIA</option>
+              <option value="07">07 - SALÃO DE FESTAS</option>
+              <option value="08">08 - FUNDO FIXO CAIXA</option>
+              <option value="09">09 - ACORDO/JURIDICO</option>
+              <option value="10">10 - SEGURANÇA</option>
+              <option value="11">11 - TV POR ASSINATURA</option>
+              <option value="12">12 - CONSUMO DE GAS</option>
+              <option value="13">13 - IPTU</option>
+              <option value="14">14 - CONSUMO DE AGUA</option>
+              <option value="15">15 - QUADRO ENERGIA ELETRICA</option>
+              <option value="16">16 - PEÇAS ELEVADOR</option>
+              <option value="17">17 - ACADEMIA</option>
+              <option value="18">18 - A.V.C.B</option>
+              <option value="19">19 - INSTALAÇÃO CFTV</option>
+              <option value="20">20 - ALUGUEL VAGA GARAGEM</option>
+              <option value="21">21 - APLICAÇAO</option>
+              <option value="22">22 - CHURRASQUEIRA</option>
+              <option value="23">23 - PROCESSO TRABALHISTA</option>
+              <option value="24">24 - RESCISÃO FUNCIONARIO</option>
+              <option value="25">25 - FDO.FIXO CAIXA SINDICO</option>
+              <option value="26">26 - FDO.FIXO CAIXA ZELADOR</option>
+              <option value="27">27 - FDO.FIXO CAIXA ATUAL</option>
+              <option value="28">28 - PINTURA</option>
+              <option value="29">29 - IMPERMEABILIZAÇÃO FACHADA</option>
+              <option value="30">30 - GARAGEM</option>
+              <option value="31">31 - REFORMA</option>
+              <!--<option value="">32 - ?</option>-->
+              <option value="33">33 - PROCESSO INCORPORADORA</option>
+              <option value="34">34 - BOLSA BENEFICIENCIA</option>
+              <option value="35">35 - EVENTOS</option>
+              <option value="36">36 - LOJA</option>
+              <option value="37">37 - SALDO ADM ANTERIOR</option>
+              <option value="38">38 - ELEVADOR</option>
+              <option value="39">39 - CLAUSURAS</option>
+              <option value="40">40 - PRUMADA</option>
+              <option value="41">41 - GERADORES</option>
+              <option value="42">42 - ASSESSORIA ESPORTIVA/EVENTOS</option>
+              <option value="43">43 - MANUTENÇÃO</option>
+              <option value="44">44 - INDIVIDUALIZAÇÃO DE GAS</option>
+              <option value="45">45 - INADIMPLENCIA</option>
+              <option value="46">46 - CONTA ESPECIAL GUARITA/PINTURA</option>
+              <option value="47">47 - AÇÃO TRABALHISTA</option>
+              <option value="48">48 - REFORMA DA FACHADA</option>
+              <option value="49">49 - IMPERMEABILIZAÇÃO</option>
+              <option value="50">50 - IMPLANTAÇÃO</option>
+              <option value="51">51 - EXTRA CONDOMINIAL</option>
+              <option value="52">52 - CAIXA JURIDICO</option>
+              <option value="53">53 - CONTROLE REMOTO/ACESSO</option>
+              <option value="54">54 - ALUGUEL</option>
+              <option value="55">55 - SHOWS</option>
+              <option value="56">56 - PROC. CONSTRUTORA JAU / SABESP</option>
+              <option value="57">57 - PROV. 13º SALÁRIO</option>
+              <option value="58">58 - INDIVIDUALIZAÇÃO DE AGUA</option>
+              <option value="59">59 - LAVANDERIA</option>
+              <option value="60">60 - CONSUMOS</option>
+              <option value="61">61 - FUNDO DE INVESTIMENTO</option>
+              <option value="62">62 - SALDO ADM ANTERIOR REGULARIZAR</option>
+              <option value="63">63 - LOCAÇÃO</option>
+              <option value="64">64 - CONSUMO DE AGUA/GAS</option>
+              <option value="65">65 - CESSAO PROV DIREITO AREA COMUM</option>
+              <option value="66">66 - POÇO ARTESIANO</option>
+              <option value="67">67 - INDIVIDUALIZAÇÃO - ÁGUA/GÁS</option>
+              <option value="68">68 - RATEIO EXTRA</option>
+              <option value="69">69 - RESERVA SEGURANÇA EMERGENCIA</option>
+              <option value="70">70 - PROCESSO CLARO</option>
+              <option value="71">71 - OBRAS / TELHADO</option>
+              <option value="72">772 - PROCESSO CONSTRUTORA</option>
+              <option value="73">73 - FUNDO MINI MERCADO</option>
+              <option value="74">74 - SISTEMA DE INCÊNDIO</option>
+              <option value="75">75 - CNTA. P/ ATUALIZAÇÃO CONVENÇÃO</option>
+              <option value="76">76 - SALA ADMINISTRATIVA</option>
+              <option value="77">77 - PROJETO DE SEGURANÇA</option>
+              <option value="78">78 - ASSOCIAÇÕES/PARQUES</option>
+              <option value="79">79 - FUNDO EMERGENCIAL</option>
+              <option value="80">80 - FUNDO JUDICIAL</option>
+              <option value="81">81 - FINANCIAMENTO</option>
+              <option value="82">82 - VERBA BLOCOS</option>
+              <option value="83">83 - AUDITORIA</option>
+              <option value="84">84 - BRINQUEDOS/LAZER</option>
+              <option value="85">85 - ENERGIA ELETRICA</option>
+              <option value="86">86 - CONTA REFORÇO DE CAIXA</option>
+              <option value="87">87 - DESAPROPRIAÇÃO</option>
+              <option value="88">88 - BICICLETÁRIO</option>
+              <option value="89">89 - Impermeabiliz/Jardim/Calçada</option>
+              <option value="90">90 - SEGUROS</option>
+              <option value="91">91 - SHOWS</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>DATA/HORA</td>
+          <td id="data-hora"></td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>ASSINATURA GERENTE</td>
+          <td>
+            <input type="text" placeholder="Digite o nome do Gerente">
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td>ANEXOS:</td>
+          <td>
+            <select name="tipoAnexo" id="tipoAnexo">
+              <option value="recibo">1 - RECIBO</option>
+              <option value="notaFiscal">2 - NOTA FISCAL</option>
+            </select>
+          </td>
+        </td>
+        <tr>
+          <td colspan="2" class="primaryColor"></td>
+        </tr>
+        <tr>
+          <td style="padding-bottom:80px;">HISTÓRICO:</td>
+          <td>
+            <textarea
+              name="teste"
+              id=""
+              cols="46"
+              rows="6"
+            ></textarea>
+          </td>
+        </tr>
+      </table>
+      <div id="msgErro">Preencha todos os campos!</div>
+      <br>
+    </div>
+    <div class="container2">
+      <button type="submit" class="imprimir btn-form" id="btn1">Imprimir</button>
+      <button type="submit" class="limpar btn-form" id="btn2">Limpar</button>
+    </div>
+    <script src="./main.js"></script>
+    <script src="./inputMask.js"></script>
+    <script src="./timeStamp.js"></script>
+    <script src="./autocomplet.js"></script>
+  </body>
+</html>

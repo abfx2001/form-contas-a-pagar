@@ -1,0 +1,2227 @@
+[
+    {
+        "nome": "BCO DO BRASIL S.A.",
+        "cod": 1,
+        "ispb": 0,
+        "nome-completo": "Banco do Brasil S.A.",
+        "id": "1 - BCO DO BRASIL S.A."
+    },
+    {
+        "nome": "BCO DA AMAZONIA S.A.",
+        "cod": 3,
+        "ispb": "4&nbsp;902&nbsp;979",
+        "nome-completo": "BANCO DA AMAZONIA S.A.",
+        "id": "3 - BCO DA AMAZONIA S.A."
+    },
+    {
+        "nome": "BCO DO NORDESTE DO BRASIL S.A.",
+        "cod": 4,
+        "ispb": "7&nbsp;237&nbsp;373",
+        "nome-completo": "Banco do Nordeste do Brasil S.A.",
+        "id": "4 - BCO DO NORDESTE DO BRASIL S.A."
+    },
+    {
+        "nome": "BNDES",
+        "cod": 7,
+        "ispb": "33&nbsp;657&nbsp;248",
+        "nome-completo": "BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL",
+        "id": "7 - BNDES"
+    },
+    {
+        "nome": "CREDICOAMO",
+        "cod": 10,
+        "ispb": "81&nbsp;723&nbsp;108",
+        "nome-completo": "CREDICOAMO CREDITO RURAL COOPERATIVA",
+        "id": "10 - CREDICOAMO"
+    },
+    {
+        "nome": "C.SUISSE HEDGING-GRIFFO CV S\/A",
+        "cod": 11,
+        "ispb": "61&nbsp;809&nbsp;182",
+        "nome-completo": "CREDIT SUISSE HEDGING-GRIFFO CORRETORA DE VALORES S.A",
+        "id": "11 - C.SUISSE HEDGING-GRIFFO CV S\/A"
+    },
+    {
+        "nome": "BANCO INBURSA",
+        "cod": 12,
+        "ispb": "4&nbsp;866&nbsp;275",
+        "nome-completo": "Banco Inbursa S.A.",
+        "id": "12 - BANCO INBURSA"
+    },
+    {
+        "nome": "STATE STREET BR S.A. BCO COMERCIAL",
+        "cod": 14,
+        "ispb": "9&nbsp;274&nbsp;232",
+        "nome-completo": "STATE STREET BRASIL S.A. - BANCO COMERCIAL",
+        "id": "14 - STATE STREET BR S.A. BCO COMERCIAL"
+    },
+    {
+        "nome": "UBS BRASIL CCTVM S.A.",
+        "cod": 15,
+        "ispb": "2&nbsp;819&nbsp;125",
+        "nome-completo": "UBS Brasil Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
+        "id": "15 - UBS BRASIL CCTVM S.A."
+    },
+    {
+        "nome": "CCM DESP TRÂNS SC E RS",
+        "cod": 16,
+        "ispb": "4&nbsp;715&nbsp;685",
+        "nome-completo": "COOPERATIVA DE CRÉDITO MÚTUO DOS DESPACHANTES DE TRÂNSITO DE SANTA CATARINA E RI",
+        "id": "16 - CCM DESP TRÂNS SC E RS"
+    },
+    {
+        "nome": "BNY MELLON BCO S.A.",
+        "cod": 17,
+        "ispb": "42&nbsp;272&nbsp;526",
+        "nome-completo": "BNY Mellon Banco S.A.",
+        "id": "17 - BNY MELLON BCO S.A."
+    },
+    {
+        "nome": "BCO TRICURY S.A.",
+        "cod": 18,
+        "ispb": "57&nbsp;839&nbsp;805",
+        "nome-completo": "Banco Tricury S.A.",
+        "id": "18 - BCO TRICURY S.A."
+    },
+    {
+        "nome": "BCO BANESTES S.A.",
+        "cod": 21,
+        "ispb": "28&nbsp;127&nbsp;603",
+        "nome-completo": "BANESTES S.A. BANCO DO ESTADO DO ESPIRITO SANTO",
+        "id": "21 - BCO BANESTES S.A."
+    },
+    {
+        "nome": "BCO BANDEPE S.A.",
+        "cod": 24,
+        "ispb": "10&nbsp;866&nbsp;788",
+        "nome-completo": "Banco Bandepe S.A.",
+        "id": "24 - BCO BANDEPE S.A."
+    },
+    {
+        "nome": "BCO ALFA S.A.",
+        "cod": 25,
+        "ispb": "3&nbsp;323&nbsp;840",
+        "nome-completo": "Banco Alfa S.A.",
+        "id": "25 - BCO ALFA S.A."
+    },
+    {
+        "nome": "BANCO ITAÚ CONSIGNADO S.A.",
+        "cod": 29,
+        "ispb": "33&nbsp;885&nbsp;724",
+        "nome-completo": "Banco Itaú Consignado S.A.",
+        "id": "29 - BANCO ITAÚ CONSIGNADO S.A."
+    },
+    {
+        "nome": "BCO SANTANDER (BRASIL) S.A.",
+        "cod": 33,
+        "ispb": "90&nbsp;400&nbsp;888",
+        "nome-completo": "BANCO SANTANDER (BRASIL) S.A.",
+        "id": "33 - BCO SANTANDER (BRASIL) S.A."
+    },
+    {
+        "nome": "BCO BBI S.A.",
+        "cod": 36,
+        "ispb": "6&nbsp;271&nbsp;464",
+        "nome-completo": "Banco Bradesco BBI S.A.",
+        "id": "36 - BCO BBI S.A."
+    },
+    {
+        "nome": "BCO DO EST. DO PA S.A.",
+        "cod": 37,
+        "ispb": "4&nbsp;913&nbsp;711",
+        "nome-completo": "Banco do Estado do Pará S.A.",
+        "id": "37 - BCO DO EST. DO PA S.A."
+    },
+    {
+        "nome": "BCO CARGILL S.A.",
+        "cod": 40,
+        "ispb": "3&nbsp;609&nbsp;817",
+        "nome-completo": "Banco Cargill S.A.",
+        "id": "40 - BCO CARGILL S.A."
+    },
+    {
+        "nome": "BCO DO ESTADO DO RS S.A.",
+        "cod": 41,
+        "ispb": "92&nbsp;702&nbsp;067",
+        "nome-completo": "Banco do Estado do Rio Grande do Sul S.A.",
+        "id": "41 - BCO DO ESTADO DO RS S.A."
+    },
+    {
+        "nome": "BCO DO EST. DE SE S.A.",
+        "cod": 47,
+        "ispb": "13&nbsp;009&nbsp;717",
+        "nome-completo": "Banco do Estado de Sergipe S.A.",
+        "id": "47 - BCO DO EST. DE SE S.A."
+    },
+    {
+        "nome": "CONFIDENCE CC S.A.",
+        "cod": 60,
+        "ispb": "4&nbsp;913&nbsp;129",
+        "nome-completo": "Confidence Corretora de Câmbio S.A.",
+        "id": "60 - CONFIDENCE CC S.A."
+    },
+    {
+        "nome": "HIPERCARD BM S.A.",
+        "cod": 62,
+        "ispb": "3&nbsp;012&nbsp;230",
+        "nome-completo": "Hipercard Banco Múltiplo S.A.",
+        "id": "62 - HIPERCARD BM S.A."
+    },
+    {
+        "nome": "BANCO BRADESCARD",
+        "cod": 63,
+        "ispb": "4&nbsp;184&nbsp;779",
+        "nome-completo": "Banco Bradescard S.A.",
+        "id": "63 - BANCO BRADESCARD"
+    },
+    {
+        "nome": "GOLDMAN SACHS DO BRASIL BM S.A",
+        "cod": 64,
+        "ispb": "4&nbsp;332&nbsp;281",
+        "nome-completo": "GOLDMAN SACHS DO BRASIL BANCO MULTIPLO S.A.",
+        "id": "64 - GOLDMAN SACHS DO BRASIL BM S.A"
+    },
+    {
+        "nome": "BCO ANDBANK S.A.",
+        "cod": 65,
+        "ispb": "48&nbsp;795&nbsp;256",
+        "nome-completo": "Banco AndBank (Brasil) S.A.",
+        "id": "65 - BCO ANDBANK S.A."
+    },
+    {
+        "nome": "BCO MORGAN STANLEY S.A.",
+        "cod": 66,
+        "ispb": "2&nbsp;801&nbsp;938",
+        "nome-completo": "BANCO MORGAN STANLEY S.A.",
+        "id": "66 - BCO MORGAN STANLEY S.A."
+    },
+    {
+        "nome": "BRB - BCO DE BRASILIA S.A.",
+        "cod": 70,
+        "ispb": 208,
+        "nome-completo": "BRB - BANCO DE BRASILIA S.A.",
+        "id": "70 - BRB - BCO DE BRASILIA S.A."
+    },
+    {
+        "nome": "BCO. J.SAFRA S.A.",
+        "cod": 74,
+        "ispb": "3&nbsp;017&nbsp;677",
+        "nome-completo": "Banco J. Safra S.A.",
+        "id": "74 - BCO. J.SAFRA S.A."
+    },
+    {
+        "nome": "BCO ABN AMRO S.A.",
+        "cod": 75,
+        "ispb": "3&nbsp;532&nbsp;415",
+        "nome-completo": "Banco ABN Amro S.A.",
+        "id": "75 - BCO ABN AMRO S.A."
+    },
+    {
+        "nome": "BCO KDB BRASIL S.A.",
+        "cod": 76,
+        "ispb": "7&nbsp;656&nbsp;500",
+        "nome-completo": "Banco KDB do Brasil S.A.",
+        "id": "76 - BCO KDB BRASIL S.A."
+    },
+    {
+        "nome": "BANCO INTER",
+        "cod": 77,
+        "ispb": "416&nbsp;968",
+        "nome-completo": "Banco Inter S.A.",
+        "id": "77 - BANCO INTER"
+    },
+    {
+        "nome": "HAITONG BI DO BRASIL S.A.",
+        "cod": 78,
+        "ispb": "34&nbsp;111&nbsp;187",
+        "nome-completo": "Haitong Banco de Investimento do Brasil S.A.",
+        "id": "78 - HAITONG BI DO BRASIL S.A."
+    },
+    {
+        "nome": "BCO ORIGINAL DO AGRO S\/A",
+        "cod": 79,
+        "ispb": "9&nbsp;516&nbsp;419",
+        "nome-completo": "Banco Original do Agronegócio S.A.",
+        "id": "79 - BCO ORIGINAL DO AGRO S\/A"
+    },
+    {
+        "nome": "B&amp;T CC LTDA.",
+        "cod": 80,
+        "ispb": "73&nbsp;622&nbsp;748",
+        "nome-completo": "B&amp;T CORRETORA DE CAMBIO LTDA.",
+        "id": "80 - B&amp;T CC LTDA."
+    },
+    {
+        "nome": "BANCOSEGURO S.A.",
+        "cod": 81,
+        "ispb": "10&nbsp;264&nbsp;663",
+        "nome-completo": "BancoSeguro S.A.",
+        "id": "81 - BANCOSEGURO S.A."
+    },
+    {
+        "nome": "BANCO TOPÁZIO S.A.",
+        "cod": 82,
+        "ispb": "7&nbsp;679&nbsp;404",
+        "nome-completo": "BANCO TOPÁZIO S.A.",
+        "id": "82 - BANCO TOPÁZIO S.A."
+    },
+    {
+        "nome": "BCO DA CHINA BRASIL S.A.",
+        "cod": 83,
+        "ispb": "10&nbsp;690&nbsp;848",
+        "nome-completo": "Banco da China Brasil S.A.",
+        "id": "83 - BCO DA CHINA BRASIL S.A."
+    },
+    {
+        "nome": "UNIPRIME DO BRASIL - CC LTDA.",
+        "cod": 84,
+        "ispb": "2&nbsp;398&nbsp;976",
+        "id": "84 - UNIPRIME DO BRASIL - CC LTDA."
+    },
+    {
+        "nome": "COOPCENTRAL AILOS",
+        "cod": 85,
+        "ispb": "5&nbsp;463&nbsp;212",
+        "nome-completo": "Cooperativa Central de Crédito - Ailos",
+        "id": "85 - COOPCENTRAL AILOS"
+    },
+    {
+        "nome": "BANCO RANDON S.A.",
+        "cod": 88,
+        "ispb": "11&nbsp;476&nbsp;673",
+        "nome-completo": "BANCO RANDON S.A.",
+        "id": "88 - BANCO RANDON S.A."
+    },
+    {
+        "nome": "CREDISAN CC",
+        "cod": 89,
+        "ispb": "62&nbsp;109&nbsp;566",
+        "nome-completo": "CREDISAN COOPERATIVA DE CRÉDITO",
+        "id": "89 - CREDISAN CC"
+    },
+    {
+        "nome": "BRK S.A. CFI",
+        "cod": 92,
+        "ispb": "12&nbsp;865&nbsp;507",
+        "nome-completo": "BRK S.A. Crédito, Financiamento e Investimento",
+        "id": "92 - BRK S.A. CFI"
+    },
+    {
+        "nome": "POLOCRED SCMEPP LTDA.",
+        "cod": 93,
+        "ispb": "7&nbsp;945&nbsp;233",
+        "nome-completo": "PÓLOCRED SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORT",
+        "id": "93 - POLOCRED SCMEPP LTDA."
+    },
+    {
+        "nome": "BANCO FINAXIS",
+        "cod": 94,
+        "ispb": "11&nbsp;758&nbsp;741",
+        "nome-completo": "Banco Finaxis S.A.",
+        "id": "94 - BANCO FINAXIS"
+    },
+    {
+        "nome": "TRAVELEX BANCO DE CÂMBIO S.A.",
+        "cod": 95,
+        "ispb": "11&nbsp;703&nbsp;662",
+        "nome-completo": "Travelex Banco de Câmbio S.A.",
+        "id": "95 - TRAVELEX BANCO DE CÂMBIO S.A."
+    },
+    {
+        "nome": "BCO B3 S.A.",
+        "cod": 96,
+        "ispb": "997&nbsp;185",
+        "nome-completo": "Banco B3 S.A.",
+        "id": "96 - BCO B3 S.A."
+    },
+    {
+        "nome": "CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.",
+        "cod": 97,
+        "ispb": "4&nbsp;632&nbsp;856",
+        "nome-completo": "Credisis - Central de Cooperativas de Crédito Ltda.",
+        "id": "97 - CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA."
+    },
+    {
+        "nome": "CREDIALIANÇA CCR",
+        "cod": 98,
+        "ispb": "78&nbsp;157&nbsp;146",
+        "nome-completo": "Credialiança Cooperativa de Crédito Rural",
+        "id": "98 - CREDIALIANÇA CCR"
+    },
+    {
+        "nome": "UNIPRIME CENTRAL CCC LTDA.",
+        "cod": 99,
+        "ispb": "3&nbsp;046&nbsp;391",
+        "nome-completo": "UNIPRIME CENTRAL - CENTRAL INTERESTADUAL DE COOPERATIVAS DE CREDITO LTDA.",
+        "id": "99 - UNIPRIME CENTRAL CCC LTDA."
+    },
+    {
+        "nome": "PLANNER CV S.A.",
+        "cod": 100,
+        "ispb": "806&nbsp;535",
+        "nome-completo": "Planner Corretora de Valores S.A.",
+        "id": "100 - PLANNER CV S.A."
+    },
+    {
+        "nome": "RENASCENCA DTVM LTDA",
+        "cod": 101,
+        "ispb": "62&nbsp;287&nbsp;735",
+        "nome-completo": "RENASCENCA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+        "id": "101 - RENASCENCA DTVM LTDA"
+    },
+    {
+        "nome": "XP INVESTIMENTOS CCTVM S\/A",
+        "cod": 102,
+        "ispb": "2&nbsp;332&nbsp;886",
+        "nome-completo": "XP INVESTIMENTOS CORRETORA DE CÂMBIO,TÍTULOS E VALORES MOBILIÁRIOS S\/A",
+        "id": "102 - XP INVESTIMENTOS CCTVM S\/A"
+    },
+    {
+        "nome": "CAIXA ECONOMICA FEDERAL",
+        "cod": 104,
+        "ispb": "360&nbsp;305",
+        "nome-completo": "CAIXA ECONOMICA FEDERAL",
+        "id": "104 - CAIXA ECONOMICA FEDERAL"
+    },
+    {
+        "nome": "LECCA CFI S.A.",
+        "cod": 105,
+        "ispb": "7&nbsp;652&nbsp;226",
+        "nome-completo": "Lecca Crédito, Financiamento e Investimento S\/A",
+        "id": "105 - LECCA CFI S.A."
+    },
+    {
+        "nome": "BCO BOCOM BBM S.A.",
+        "cod": 107,
+        "ispb": "15&nbsp;114&nbsp;366",
+        "nome-completo": "Banco Bocom BBM S.A.",
+        "id": "107 - BCO BOCOM BBM S.A."
+    },
+    {
+        "nome": "PORTOCRED S.A. - CFI",
+        "cod": 108,
+        "ispb": "1&nbsp;800&nbsp;019",
+        "nome-completo": "PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO",
+        "id": "108 - PORTOCRED S.A. - CFI"
+    },
+    {
+        "nome": "OLIVEIRA TRUST DTVM S.A.",
+        "cod": 111,
+        "ispb": "36&nbsp;113&nbsp;876",
+        "nome-completo": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIARIOS S.A.",
+        "id": "111 - OLIVEIRA TRUST DTVM S.A."
+    },
+    {
+        "nome": "MAGLIANO S A CTVM",
+        "cod": 113,
+        "ispb": "61&nbsp;723&nbsp;847",
+        "id": "113 - MAGLIANO S A CTVM"
+    },
+    {
+        "nome": "CENTRAL COOPERATIVA DE CRÉDITO NO ESTADO DO ESPÍRITO SANTO",
+        "cod": 114,
+        "ispb": "5&nbsp;790&nbsp;149",
+        "nome-completo": "Central Cooperativa de Crédito no Estado do Espírito Santo - CECOOP",
+        "id": "114 - CENTRAL COOPERATIVA DE CRÉDITO NO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+        "nome": "ADVANCED CC LTDA",
+        "cod": 117,
+        "ispb": "92&nbsp;856&nbsp;905",
+        "nome-completo": "ADVANCED CORRETORA DE CÂMBIO LTDA",
+        "id": "117 - ADVANCED CC LTDA"
+    },
+    {
+        "nome": "BCO WESTERN UNION",
+        "cod": 119,
+        "ispb": "13&nbsp;720&nbsp;915",
+        "nome-completo": "Banco Western Union do Brasil S.A.",
+        "id": "119 - BCO WESTERN UNION"
+    },
+    {
+        "nome": "BCO RODOBENS S.A.",
+        "cod": 120,
+        "ispb": "33&nbsp;603&nbsp;457",
+        "nome-completo": "BANCO RODOBENS S.A.",
+        "id": "120 - BCO RODOBENS S.A."
+    },
+    {
+        "nome": "BCO AGIBANK S.A.",
+        "cod": 121,
+        "ispb": "10&nbsp;664&nbsp;513",
+        "nome-completo": "Banco Agibank S.A.",
+        "id": "121 - BCO AGIBANK S.A."
+    },
+    {
+        "nome": "BCO BRADESCO BERJ S.A.",
+        "cod": 122,
+        "ispb": "33&nbsp;147&nbsp;315",
+        "nome-completo": "Banco Bradesco BERJ S.A.",
+        "id": "122 - BCO BRADESCO BERJ S.A."
+    },
+    {
+        "nome": "BCO WOORI BANK DO BRASIL S.A.",
+        "cod": 124,
+        "ispb": "15&nbsp;357&nbsp;060",
+        "nome-completo": "Banco Woori Bank do Brasil S.A.",
+        "id": "124 - BCO WOORI BANK DO BRASIL S.A."
+    },
+    {
+        "nome": "BANCO GENIAL",
+        "cod": 125,
+        "ispb": "45&nbsp;246&nbsp;410",
+        "nome-completo": "BANCO GENIAL S.A.",
+        "id": "125 - BANCO GENIAL"
+    },
+    {
+        "nome": "BR PARTNERS BI",
+        "cod": 126,
+        "ispb": "13&nbsp;220&nbsp;493",
+        "nome-completo": "BR Partners Banco de Investimento S.A.",
+        "id": "126 - BR PARTNERS BI"
+    },
+    {
+        "nome": "CODEPE CVC S.A.",
+        "cod": 127,
+        "ispb": "9&nbsp;512&nbsp;542",
+        "nome-completo": "Codepe Corretora de Valores e Câmbio S.A.",
+        "id": "127 - CODEPE CVC S.A."
+    },
+    {
+        "nome": "MS BANK S.A. BCO DE CÂMBIO",
+        "cod": 128,
+        "ispb": "19&nbsp;307&nbsp;785",
+        "nome-completo": "MS Bank S.A. Banco de Câmbio",
+        "id": "128 - MS BANK S.A. BCO DE CÂMBIO"
+    },
+    {
+        "nome": "UBS BRASIL BI S.A.",
+        "cod": 129,
+        "ispb": "18&nbsp;520&nbsp;834",
+        "nome-completo": "UBS Brasil Banco de Investimento S.A.",
+        "id": "129 - UBS BRASIL BI S.A."
+    },
+    {
+        "nome": "CARUANA SCFI",
+        "cod": 130,
+        "ispb": "9&nbsp;313&nbsp;766",
+        "nome-completo": "CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+        "id": "130 - CARUANA SCFI"
+    },
+    {
+        "nome": "TULLETT PREBON BRASIL CVC LTDA",
+        "cod": 131,
+        "ispb": "61&nbsp;747&nbsp;085",
+        "nome-completo": "TULLETT PREBON BRASIL CORRETORA DE VALORES E CÂMBIO LTDA",
+        "id": "131 - TULLETT PREBON BRASIL CVC LTDA"
+    },
+    {
+        "nome": "ICBC DO BRASIL BM S.A.",
+        "cod": 132,
+        "ispb": "17&nbsp;453&nbsp;575",
+        "nome-completo": "ICBC do Brasil Banco Múltiplo S.A.",
+        "id": "132 - ICBC DO BRASIL BM S.A."
+    },
+    {
+        "nome": "CRESOL CONFEDERAÇÃO",
+        "cod": 133,
+        "ispb": "10&nbsp;398&nbsp;952",
+        "nome-completo": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E",
+        "id": "133 - CRESOL CONFEDERAÇÃO"
+    },
+    {
+        "nome": "BGC LIQUIDEZ DTVM LTDA",
+        "cod": 134,
+        "ispb": "33&nbsp;862&nbsp;244",
+        "nome-completo": "BGC LIQUIDEZ DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+        "id": "134 - BGC LIQUIDEZ DTVM LTDA"
+    },
+    {
+        "nome": "CONF NAC COOP CENTRAIS UNICRED",
+        "cod": 136,
+        "ispb": "315&nbsp;557",
+        "nome-completo": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASI",
+        "id": "136 - CONF NAC COOP CENTRAIS UNICRED"
+    },
+    {
+        "nome": "GET MONEY CC LTDA",
+        "cod": 138,
+        "ispb": "10&nbsp;853&nbsp;017",
+        "nome-completo": "Get Money Corretora de Câmbio S.A.",
+        "id": "138 - GET MONEY CC LTDA"
+    },
+    {
+        "nome": "INTESA SANPAOLO BRASIL S.A. BM",
+        "cod": 139,
+        "ispb": "55&nbsp;230&nbsp;916",
+        "id": "139 - INTESA SANPAOLO BRASIL S.A. BM"
+    },
+    {
+        "nome": "NU INVEST CORRETORA DE VALORES S.A.",
+        "cod": 140,
+        "ispb": "62&nbsp;169&nbsp;875",
+        "nome-completo": "NU INVEST CORRETORA DE VALORES S.A.",
+        "id": "140 - NU INVEST CORRETORA DE VALORES S.A."
+    },
+    {
+        "nome": "BROKER BRASIL CC LTDA.",
+        "cod": 142,
+        "ispb": "16&nbsp;944&nbsp;141",
+        "nome-completo": "Broker Brasil Corretora de Câmbio Ltda.",
+        "id": "142 - BROKER BRASIL CC LTDA."
+    },
+    {
+        "nome": "TREVISO CC S.A.",
+        "cod": 143,
+        "ispb": "2&nbsp;992&nbsp;317",
+        "nome-completo": "Treviso Corretora de Câmbio S.A.",
+        "id": "143 - TREVISO CC S.A."
+    },
+    {
+        "nome": "BEXS BCO DE CAMBIO S.A.",
+        "cod": 144,
+        "ispb": "13&nbsp;059&nbsp;145",
+        "nome-completo": "BEXS BANCO DE CÂMBIO S\/A",
+        "id": "144 - BEXS BCO DE CAMBIO S.A."
+    },
+    {
+        "nome": "LEVYCAM CCV LTDA",
+        "cod": 145,
+        "ispb": "50&nbsp;579&nbsp;044",
+        "nome-completo": "LEVYCAM - CORRETORA DE CAMBIO E VALORES LTDA.",
+        "id": "145 - LEVYCAM CCV LTDA"
+    },
+    {
+        "nome": "GUITTA CC LTDA",
+        "cod": 146,
+        "ispb": "24&nbsp;074&nbsp;692",
+        "nome-completo": "GUITTA CORRETORA DE CAMBIO LTDA.",
+        "id": "146 - GUITTA CC LTDA"
+    },
+    {
+        "nome": "FACTA S.A. CFI",
+        "cod": 149,
+        "ispb": "15&nbsp;581&nbsp;638",
+        "nome-completo": "Facta Financeira S.A. - Crédito Financiamento e Investimento",
+        "id": "149 - FACTA S.A. CFI"
+    },
+    {
+        "nome": "ICAP DO BRASIL CTVM LTDA.",
+        "cod": 157,
+        "ispb": "9&nbsp;105&nbsp;360",
+        "nome-completo": "ICAP do Brasil Corretora de Títulos e Valores Mobiliários Ltda.",
+        "id": "157 - ICAP DO BRASIL CTVM LTDA."
+    },
+    {
+        "nome": "CASA CREDITO S.A. SCM",
+        "cod": 159,
+        "ispb": "5&nbsp;442&nbsp;029",
+        "nome-completo": "Casa do Crédito S.A. Sociedade de Crédito ao Microempreendedor",
+        "id": "159 - CASA CREDITO S.A. SCM"
+    },
+    {
+        "nome": "COMMERZBANK BRASIL S.A. - BCO MÚLTIPLO",
+        "cod": 163,
+        "ispb": "23&nbsp;522&nbsp;214",
+        "nome-completo": "Commerzbank Brasil S.A. - Banco Múltiplo",
+        "id": "163 - COMMERZBANK BRASIL S.A. - BCO MÚLTIPLO"
+    },
+    {
+        "nome": "BRL TRUST DTVM SA",
+        "cod": 173,
+        "ispb": "13&nbsp;486&nbsp;793",
+        "nome-completo": "BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A.",
+        "id": "173 - BRL TRUST DTVM SA"
+    },
+    {
+        "nome": "PEFISA S.A. - C.F.I.",
+        "cod": 174,
+        "ispb": "43&nbsp;180&nbsp;355",
+        "nome-completo": "PEFISA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+        "id": "174 - PEFISA S.A. - C.F.I."
+    },
+    {
+        "nome": "GUIDE",
+        "cod": 177,
+        "ispb": "65&nbsp;913&nbsp;436",
+        "nome-completo": "Guide Investimentos S.A. Corretora de Valores",
+        "id": "177 - GUIDE"
+    },
+    {
+        "nome": "CM CAPITAL MARKETS CCTVM LTDA",
+        "cod": 180,
+        "ispb": "2&nbsp;685&nbsp;483",
+        "nome-completo": "CM CAPITAL MARKETS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+        "id": "180 - CM CAPITAL MARKETS CCTVM LTDA"
+    },
+    {
+        "nome": "SOCRED SA - SCMEPP",
+        "cod": 183,
+        "ispb": "9&nbsp;210&nbsp;106",
+        "nome-completo": "SOCRED S.A. - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO P",
+        "id": "183 - SOCRED SA - SCMEPP"
+    },
+    {
+        "nome": "BCO ITAÚ BBA S.A.",
+        "cod": 184,
+        "ispb": "17&nbsp;298&nbsp;092",
+        "nome-completo": "Banco Itaú BBA S.A.",
+        "id": "184 - BCO ITAÚ BBA S.A."
+    },
+    {
+        "nome": "ATIVA S.A. INVESTIMENTOS CCTVM",
+        "cod": 188,
+        "ispb": "33&nbsp;775&nbsp;974",
+        "nome-completo": "ATIVA INVESTIMENTOS S.A. CORRETORA DE TÍTULOS, CÂMBIO E VALORES",
+        "id": "188 - ATIVA S.A. INVESTIMENTOS CCTVM"
+    },
+    {
+        "nome": "HS FINANCEIRA",
+        "cod": 189,
+        "ispb": "7&nbsp;512&nbsp;441",
+        "nome-completo": "HS FINANCEIRA S\/A CREDITO, FINANCIAMENTO E INVESTIMENTOS",
+        "id": "189 - HS FINANCEIRA"
+    },
+    {
+        "nome": "SERVICOOP",
+        "cod": 190,
+        "ispb": "3&nbsp;973&nbsp;814",
+        "nome-completo": "SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS DO RIO GRAN",
+        "id": "190 - SERVICOOP"
+    },
+    {
+        "nome": "NOVA FUTURA CTVM LTDA.",
+        "cod": 191,
+        "ispb": "4&nbsp;257&nbsp;795",
+        "id": "191 - NOVA FUTURA CTVM LTDA."
+    },
+    {
+        "nome": "PARMETAL DTVM LTDA",
+        "cod": 194,
+        "ispb": "20&nbsp;155&nbsp;248",
+        "nome-completo": "PARMETAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+        "id": "194 - PARMETAL DTVM LTDA"
+    },
+    {
+        "nome": "VALOR SCD S.A.",
+        "cod": 195,
+        "ispb": "7&nbsp;799&nbsp;277",
+        "nome-completo": "VALOR SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "195 - VALOR SCD S.A."
+    },
+    {
+        "nome": "FAIR CC S.A.",
+        "cod": 196,
+        "ispb": "32&nbsp;648&nbsp;370",
+        "nome-completo": "FAIR CORRETORA DE CAMBIO S.A.",
+        "id": "196 - FAIR CC S.A."
+    },
+    {
+        "nome": "STONE PAGAMENTOS S.A.",
+        "cod": 197,
+        "ispb": "16&nbsp;501&nbsp;555",
+        "nome-completo": "Stone Pagamentos S.A.",
+        "id": "197 - STONE PAGAMENTOS S.A."
+    },
+    {
+        "nome": "BANCO BTG PACTUAL S.A.",
+        "cod": 208,
+        "ispb": "30&nbsp;306&nbsp;294",
+        "nome-completo": "Banco BTG Pactual S.A.",
+        "id": "208 - BANCO BTG PACTUAL S.A."
+    },
+    {
+        "nome": "BANCO ORIGINAL",
+        "cod": 212,
+        "ispb": "92&nbsp;894&nbsp;922",
+        "nome-completo": "Banco Original S.A.",
+        "id": "212 - BANCO ORIGINAL"
+    },
+    {
+        "nome": "BCO ARBI S.A.",
+        "cod": 213,
+        "ispb": "54&nbsp;403&nbsp;563",
+        "nome-completo": "Banco Arbi S.A.",
+        "id": "213 - BCO ARBI S.A."
+    },
+    {
+        "nome": "BANCO JOHN DEERE S.A.",
+        "cod": 217,
+        "ispb": "91&nbsp;884&nbsp;981",
+        "nome-completo": "Banco John Deere S.A.",
+        "id": "217 - BANCO JOHN DEERE S.A."
+    },
+    {
+        "nome": "BCO BS2 S.A.",
+        "cod": 218,
+        "ispb": "71&nbsp;027&nbsp;866",
+        "nome-completo": "Banco BS2 S.A.",
+        "id": "218 - BCO BS2 S.A."
+    },
+    {
+        "nome": "BCO CRÉDIT AGRICOLE BR S.A.",
+        "cod": 222,
+        "ispb": "75&nbsp;647&nbsp;891",
+        "nome-completo": "BANCO CRÉDIT AGRICOLE BRASIL S.A.",
+        "id": "222 - BCO CRÉDIT AGRICOLE BR S.A."
+    },
+    {
+        "nome": "BCO FIBRA S.A.",
+        "cod": 224,
+        "ispb": "58&nbsp;616&nbsp;418",
+        "nome-completo": "Banco Fibra S.A.",
+        "id": "224 - BCO FIBRA S.A."
+    },
+    {
+        "nome": "BANCO CIFRA",
+        "cod": 233,
+        "ispb": "62&nbsp;421&nbsp;979",
+        "nome-completo": "Banco Cifra S.A.",
+        "id": "233 - BANCO CIFRA"
+    },
+    {
+        "nome": "BCO BRADESCO S.A.",
+        "cod": 237,
+        "ispb": "60&nbsp;746&nbsp;948",
+        "nome-completo": "Banco Bradesco S.A.",
+        "id": "237 - BCO BRADESCO S.A."
+    },
+    {
+        "nome": "BCO CLASSICO S.A.",
+        "cod": 241,
+        "ispb": "31&nbsp;597&nbsp;552",
+        "nome-completo": "BANCO CLASSICO S.A.",
+        "id": "241 - BCO CLASSICO S.A."
+    },
+    {
+        "nome": "BANCO MASTER",
+        "cod": 243,
+        "ispb": "33&nbsp;923&nbsp;798",
+        "nome-completo": "BANCO MASTER S\/A",
+        "id": "243 - BANCO MASTER"
+    },
+    {
+        "nome": "BCO ABC BRASIL S.A.",
+        "cod": 246,
+        "ispb": "28&nbsp;195&nbsp;667",
+        "nome-completo": "Banco ABC Brasil S.A.",
+        "id": "246 - BCO ABC BRASIL S.A."
+    },
+    {
+        "nome": "BANCO INVESTCRED UNIBANCO S.A.",
+        "cod": 249,
+        "ispb": "61&nbsp;182&nbsp;408",
+        "nome-completo": "Banco Investcred Unibanco S.A.",
+        "id": "249 - BANCO INVESTCRED UNIBANCO S.A."
+    },
+    {
+        "nome": "BCV - BCO, CRÉDITO E VAREJO S.A.",
+        "cod": 250,
+        "ispb": "50&nbsp;585&nbsp;090",
+        "nome-completo": "BCV - BANCO DE CRÉDITO E VAREJO S.A.",
+        "id": "250 - BCV - BCO, CRÉDITO E VAREJO S.A."
+    },
+    {
+        "nome": "BEXS CC S.A.",
+        "cod": 253,
+        "ispb": "52&nbsp;937&nbsp;216",
+        "nome-completo": "Bexs Corretora de Câmbio S\/A",
+        "id": "253 - BEXS CC S.A."
+    },
+    {
+        "nome": "PARANA BCO S.A.",
+        "cod": 254,
+        "ispb": "14&nbsp;388&nbsp;334",
+        "id": "254 - PARANA BCO S.A."
+    },
+    {
+        "nome": "MONEYCORP BCO DE CÂMBIO S.A.",
+        "cod": 259,
+        "ispb": "8&nbsp;609&nbsp;934",
+        "nome-completo": "MONEYCORP BANCO DE CÂMBIO S.A.",
+        "id": "259 - MONEYCORP BCO DE CÂMBIO S.A."
+    },
+    {
+        "nome": "NU PAGAMENTOS - IP",
+        "cod": 260,
+        "ispb": "18&nbsp;236&nbsp;120",
+        "nome-completo": "NU PAGAMENTOS S.A. - INSTITUIÇÃO DE PAGAMENTO",
+        "id": "260 - NU PAGAMENTOS - IP"
+    },
+    {
+        "nome": "BCO FATOR S.A.",
+        "cod": 265,
+        "ispb": "33&nbsp;644&nbsp;196",
+        "nome-completo": "Banco Fator S.A.",
+        "id": "265 - BCO FATOR S.A."
+    },
+    {
+        "nome": "BCO CEDULA S.A.",
+        "cod": 266,
+        "ispb": "33&nbsp;132&nbsp;044",
+        "nome-completo": "BANCO CEDULA S.A.",
+        "id": "266 - BCO CEDULA S.A."
+    },
+    {
+        "nome": "BARI CIA HIPOTECÁRIA",
+        "cod": 268,
+        "ispb": "14&nbsp;511&nbsp;781",
+        "nome-completo": "BARI COMPANHIA HIPOTECÁRIA",
+        "id": "268 - BARI CIA HIPOTECÁRIA"
+    },
+    {
+        "nome": "BCO HSBC S.A.",
+        "cod": 269,
+        "ispb": "53&nbsp;518&nbsp;684",
+        "nome-completo": "BANCO HSBC S.A.",
+        "id": "269 - BCO HSBC S.A."
+    },
+    {
+        "nome": "SAGITUR CC LTDA",
+        "cod": 270,
+        "ispb": "61&nbsp;444&nbsp;949",
+        "nome-completo": "Sagitur Corretora de Câmbio Ltda.",
+        "id": "270 - SAGITUR CC LTDA"
+    },
+    {
+        "nome": "IB CCTVM S.A.",
+        "cod": 271,
+        "ispb": "27&nbsp;842&nbsp;177",
+        "nome-completo": "IB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
+        "id": "271 - IB CCTVM S.A."
+    },
+    {
+        "nome": "AGK CC S.A.",
+        "cod": 272,
+        "ispb": "250&nbsp;699",
+        "nome-completo": "AGK CORRETORA DE CAMBIO S.A.",
+        "id": "272 - AGK CC S.A."
+    },
+    {
+        "nome": "CCR DE SÃO MIGUEL DO OESTE",
+        "cod": 273,
+        "ispb": "8&nbsp;253&nbsp;539",
+        "nome-completo": "Cooperativa de Crédito Rural de São Miguel do Oeste - Sulcredi\/São Miguel",
+        "id": "273 - CCR DE SÃO MIGUEL DO OESTE"
+    },
+    {
+        "nome": "MONEY PLUS SCMEPP LTDA",
+        "cod": 274,
+        "ispb": "11&nbsp;581&nbsp;339",
+        "nome-completo": "MONEY PLUS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORT",
+        "id": "274 - MONEY PLUS SCMEPP LTDA"
+    },
+    {
+        "nome": "BCO SENFF S.A.",
+        "cod": 276,
+        "ispb": "11&nbsp;970&nbsp;623",
+        "nome-completo": "BANCO SENFF S.A.",
+        "id": "276 - BCO SENFF S.A."
+    },
+    {
+        "nome": "GENIAL INVESTIMENTOS CVM S.A.",
+        "cod": 278,
+        "ispb": "27&nbsp;652&nbsp;684",
+        "nome-completo": "Genial Investimentos Corretora de Valores Mobiliários S.A.",
+        "id": "278 - GENIAL INVESTIMENTOS CVM S.A."
+    },
+    {
+        "nome": "CCR DE PRIMAVERA DO LESTE",
+        "cod": 279,
+        "ispb": "26&nbsp;563&nbsp;270",
+        "nome-completo": "COOPERATIVA DE CREDITO RURAL DE PRIMAVERA DO LESTE",
+        "id": "279 - CCR DE PRIMAVERA DO LESTE"
+    },
+    {
+        "nome": "WILL FINANCEIRA S.A.CFI",
+        "cod": 280,
+        "ispb": "23&nbsp;862&nbsp;762",
+        "nome-completo": "WILL FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+        "id": "280 - WILL FINANCEIRA S.A.CFI"
+    },
+    {
+        "nome": "CCR COOPAVEL",
+        "cod": 281,
+        "ispb": "76&nbsp;461&nbsp;557",
+        "nome-completo": "Cooperativa de Crédito Rural Coopavel",
+        "id": "281 - CCR COOPAVEL"
+    },
+    {
+        "nome": "RB INVESTIMENTOS DTVM LTDA.",
+        "cod": 283,
+        "ispb": "89&nbsp;960&nbsp;090",
+        "nome-completo": "RB INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LIMITADA",
+        "id": "283 - RB INVESTIMENTOS DTVM LTDA."
+    },
+    {
+        "nome": "FRENTE CC LTDA.",
+        "cod": 285,
+        "ispb": "71&nbsp;677&nbsp;850",
+        "nome-completo": "Frente Corretora de Câmbio Ltda.",
+        "id": "285 - FRENTE CC LTDA."
+    },
+    {
+        "nome": "CCR DE OURO",
+        "cod": 286,
+        "ispb": "7&nbsp;853&nbsp;842",
+        "nome-completo": "COOPERATIVA DE CRÉDITO RURAL DE OURO SULCREDI\/OURO",
+        "id": "286 - CCR DE OURO"
+    },
+    {
+        "nome": "CAROL DTVM LTDA.",
+        "cod": 288,
+        "ispb": "62&nbsp;237&nbsp;649",
+        "id": "288 - CAROL DTVM LTDA."
+    },
+    {
+        "nome": "DECYSEO CC LTDA.",
+        "cod": 289,
+        "ispb": "94&nbsp;968&nbsp;518",
+        "nome-completo": "DECYSEO CORRETORA DE CAMBIO LTDA.",
+        "id": "289 - DECYSEO CC LTDA."
+    },
+    {
+        "nome": "PAGSEGURO S.A.",
+        "cod": 290,
+        "ispb": "8&nbsp;561&nbsp;701",
+        "nome-completo": "Pagseguro Internet S.A.",
+        "id": "290 - PAGSEGURO S.A."
+    },
+    {
+        "nome": "BS2 DTVM S.A.",
+        "cod": 292,
+        "ispb": "28&nbsp;650&nbsp;236",
+        "nome-completo": "BS2 Distribuidora de Títulos e Valores Mobiliários S.A.",
+        "id": "292 - BS2 DTVM S.A."
+    },
+    {
+        "nome": "LASTRO RDV DTVM LTDA",
+        "cod": 293,
+        "ispb": "71&nbsp;590&nbsp;442",
+        "nome-completo": "Lastro RDV Distribuidora de Títulos e Valores Mobiliários Ltda.",
+        "id": "293 - LASTRO RDV DTVM LTDA"
+    },
+    {
+        "nome": "VISION S.A. CC",
+        "cod": 296,
+        "ispb": "4&nbsp;062&nbsp;902",
+        "nome-completo": "VISION S.A. CORRETORA DE CAMBIO",
+        "id": "296 - VISION S.A. CC"
+    },
+    {
+        "nome": "VIPS CC LTDA.",
+        "cod": 298,
+        "ispb": "17&nbsp;772&nbsp;370",
+        "nome-completo": "Vip's Corretora de Câmbio Ltda.",
+        "id": "298 - VIPS CC LTDA."
+    },
+    {
+        "nome": "BCO SOROCRED S.A. - BM",
+        "cod": 299,
+        "ispb": "4&nbsp;814&nbsp;563",
+        "nome-completo": "BANCO SOROCRED S.A. - BANCO MÚLTIPLO",
+        "id": "299 - BCO SOROCRED S.A. - BM"
+    },
+    {
+        "nome": "BCO LA NACION ARGENTINA",
+        "cod": 300,
+        "ispb": "33&nbsp;042&nbsp;151",
+        "nome-completo": "Banco de la Nacion Argentina",
+        "id": "300 - BCO LA NACION ARGENTINA"
+    },
+    {
+        "nome": "BPP IP S.A.",
+        "cod": 301,
+        "ispb": "13&nbsp;370&nbsp;835",
+        "nome-completo": "BPP Instituição de Pagamento S.A.",
+        "id": "301 - BPP IP S.A."
+    },
+    {
+        "nome": "PORTOPAR DTVM LTDA",
+        "cod": 306,
+        "ispb": "40&nbsp;303&nbsp;299",
+        "nome-completo": "PORTOPAR DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+        "id": "306 - PORTOPAR DTVM LTDA"
+    },
+    {
+        "nome": "TERRA INVESTIMENTOS DTVM",
+        "cod": 307,
+        "ispb": "3&nbsp;751&nbsp;794",
+        "nome-completo": "Terra Investimentos Distribuidora de Títulos e Valores Mobiliários Ltda.",
+        "id": "307 - TERRA INVESTIMENTOS DTVM"
+    },
+    {
+        "nome": "CAMBIONET CC LTDA",
+        "cod": 309,
+        "ispb": "14&nbsp;190&nbsp;547",
+        "nome-completo": "CAMBIONET CORRETORA DE CÂMBIO LTDA.",
+        "id": "309 - CAMBIONET CC LTDA"
+    },
+    {
+        "nome": "VORTX DTVM LTDA.",
+        "cod": 310,
+        "ispb": "22&nbsp;610&nbsp;500",
+        "nome-completo": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+        "id": "310 - VORTX DTVM LTDA."
+    },
+    {
+        "nome": "DOURADA CORRETORA",
+        "cod": 311,
+        "ispb": "76&nbsp;641&nbsp;497",
+        "nome-completo": "DOURADA CORRETORA DE CÂMBIO LTDA.",
+        "id": "311 - DOURADA CORRETORA"
+    },
+    {
+        "nome": "HSCM SCMEPP LTDA.",
+        "cod": 312,
+        "ispb": "7&nbsp;693&nbsp;858",
+        "nome-completo": "HSCM - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LT",
+        "id": "312 - HSCM SCMEPP LTDA."
+    },
+    {
+        "nome": "AMAZÔNIA CC LTDA.",
+        "cod": 313,
+        "ispb": "16&nbsp;927&nbsp;221",
+        "nome-completo": "AMAZÔNIA CORRETORA DE CÂMBIO LTDA.",
+        "id": "313 - AMAZÔNIA CC LTDA."
+    },
+    {
+        "nome": "PI DTVM S.A.",
+        "cod": 315,
+        "ispb": "3&nbsp;502&nbsp;968",
+        "nome-completo": "PI Distribuidora de Títulos e Valores Mobiliários S.A.",
+        "id": "315 - PI DTVM S.A."
+    },
+    {
+        "nome": "BCO BMG S.A.",
+        "cod": 318,
+        "ispb": "61&nbsp;186&nbsp;680",
+        "nome-completo": "Banco BMG S.A.",
+        "id": "318 - BCO BMG S.A."
+    },
+    {
+        "nome": "OM DTVM LTDA",
+        "cod": 319,
+        "ispb": "11&nbsp;495&nbsp;073",
+        "nome-completo": "OM DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+        "id": "319 - OM DTVM LTDA"
+    },
+    {
+        "nome": "BCO CCB BRASIL S.A.",
+        "cod": 320,
+        "ispb": "7&nbsp;450&nbsp;604",
+        "id": "320 - BCO CCB BRASIL S.A."
+    },
+    {
+        "nome": "CREFAZ SCMEPP LTDA",
+        "cod": 321,
+        "ispb": "18&nbsp;188&nbsp;384",
+        "nome-completo": "CREFAZ SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE LT",
+        "id": "321 - CREFAZ SCMEPP LTDA"
+    },
+    {
+        "nome": "CCR DE ABELARDO LUZ",
+        "cod": 322,
+        "ispb": "1&nbsp;073&nbsp;966",
+        "nome-completo": "Cooperativa de Crédito Rural de Abelardo Luz - Sulcredi\/Crediluz",
+        "id": "322 - CCR DE ABELARDO LUZ"
+    },
+    {
+        "nome": "MERCADO PAGO",
+        "cod": 323,
+        "ispb": "10&nbsp;573&nbsp;521",
+        "nome-completo": "MERCADOPAGO.COM REPRESENTACOES LTDA.",
+        "id": "323 - MERCADO PAGO"
+    },
+    {
+        "nome": "CARTOS SCD S.A.",
+        "cod": 324,
+        "ispb": "21&nbsp;332&nbsp;862",
+        "nome-completo": "CARTOS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "324 - CARTOS SCD S.A."
+    },
+    {
+        "nome": "ÓRAMA DTVM S.A.",
+        "cod": 325,
+        "ispb": "13&nbsp;293&nbsp;225",
+        "nome-completo": "Órama Distribuidora de Títulos e Valores Mobiliários S.A.",
+        "id": "325 - ÓRAMA DTVM S.A."
+    },
+    {
+        "nome": "PARATI - CFI S.A.",
+        "cod": 326,
+        "ispb": "3&nbsp;311&nbsp;443",
+        "nome-completo": "PARATI - CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
+        "id": "326 - PARATI - CFI S.A."
+    },
+    {
+        "nome": "CECM FABRIC CALÇADOS SAPIRANGA",
+        "cod": 328,
+        "ispb": "5&nbsp;841&nbsp;967",
+        "nome-completo": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS FABRICANTES DE CALÇADOS DE SAPIRANGA",
+        "id": "328 - CECM FABRIC CALÇADOS SAPIRANGA"
+    },
+    {
+        "nome": "QI SCD S.A.",
+        "cod": 329,
+        "ispb": "32&nbsp;402&nbsp;502",
+        "nome-completo": "QI Sociedade de Crédito Direto S.A.",
+        "id": "329 - QI SCD S.A."
+    },
+    {
+        "nome": "BANCO BARI S.A.",
+        "cod": 330,
+        "ispb": "556&nbsp;603",
+        "nome-completo": "BANCO BARI DE INVESTIMENTOS E FINANCIAMENTOS S.A.",
+        "id": "330 - BANCO BARI S.A."
+    },
+    {
+        "nome": "FRAM CAPITAL DTVM S.A.",
+        "cod": 331,
+        "ispb": "13&nbsp;673&nbsp;855",
+        "nome-completo": "Fram Capital Distribuidora de Títulos e Valores Mobiliários S.A.",
+        "id": "331 - FRAM CAPITAL DTVM S.A."
+    },
+    {
+        "nome": "ACESSO SOLUCOES PAGAMENTO SA",
+        "cod": 332,
+        "ispb": "13&nbsp;140&nbsp;088",
+        "nome-completo": "Acesso Soluções de Pagamento S.A.",
+        "id": "332 - ACESSO SOLUCOES PAGAMENTO SA"
+    },
+    {
+        "nome": "BANCO DIGIO",
+        "cod": 335,
+        "ispb": "27&nbsp;098&nbsp;060",
+        "nome-completo": "Banco Digio S.A.",
+        "id": "335 - BANCO DIGIO"
+    },
+    {
+        "nome": "BCO C6 S.A.",
+        "cod": 336,
+        "ispb": "31&nbsp;872&nbsp;495",
+        "nome-completo": "Banco C6 S.A.",
+        "id": "336 - BCO C6 S.A."
+    },
+    {
+        "nome": "SUPER PAGAMENTOS E ADMINISTRACAO DE MEIOS ELETRONICOS S.A.",
+        "cod": 340,
+        "ispb": "9&nbsp;554&nbsp;480",
+        "nome-completo": "Super Pagamentos e Administração de Meios Eletrônicos S.A.",
+        "id": "340 - SUPER PAGAMENTOS E ADMINISTRACAO DE MEIOS ELETRONICOS S.A."
+    },
+    {
+        "nome": "ITAÚ UNIBANCO S.A.",
+        "cod": 341,
+        "ispb": "60&nbsp;701&nbsp;190",
+        "nome-completo": "ITAÚ UNIBANCO S.A.",
+        "id": "341 - ITAÚ UNIBANCO S.A."
+    },
+    {
+        "nome": "CREDITAS SCD",
+        "cod": 342,
+        "ispb": "32&nbsp;997&nbsp;490",
+        "nome-completo": "Creditas Sociedade de Crédito Direto S.A.",
+        "id": "342 - CREDITAS SCD"
+    },
+    {
+        "nome": "FFA SCMEPP LTDA.",
+        "cod": 343,
+        "ispb": "24&nbsp;537&nbsp;861",
+        "nome-completo": "FFA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.",
+        "id": "343 - FFA SCMEPP LTDA."
+    },
+    {
+        "nome": "BCO XP S.A.",
+        "cod": 348,
+        "ispb": "33&nbsp;264&nbsp;668",
+        "nome-completo": "Banco XP S.A.",
+        "id": "348 - BCO XP S.A."
+    },
+    {
+        "nome": "AL5 S.A. CFI",
+        "cod": 349,
+        "ispb": "27&nbsp;214&nbsp;112",
+        "nome-completo": "AL5 S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+        "id": "349 - AL5 S.A. CFI"
+    },
+    {
+        "nome": "CREHNOR LARANJEIRAS",
+        "cod": 350,
+        "ispb": "1&nbsp;330&nbsp;387",
+        "id": "350 - CREHNOR LARANJEIRAS"
+    },
+    {
+        "nome": "TORO CTVM S.A.",
+        "cod": 352,
+        "ispb": "29&nbsp;162&nbsp;769",
+        "nome-completo": "TORO CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "id": "352 - TORO CTVM S.A."
+    },
+    {
+        "nome": "NECTON INVESTIMENTOS S.A CVM",
+        "cod": 354,
+        "ispb": "52&nbsp;904&nbsp;364",
+        "nome-completo": "NECTON INVESTIMENTOS S.A. CORRETORA DE VALORES MOBILIÁRIOS E COMMODITIES",
+        "id": "354 - NECTON INVESTIMENTOS S.A CVM"
+    },
+    {
+        "nome": "ÓTIMO SCD S.A.",
+        "cod": 355,
+        "ispb": "34&nbsp;335&nbsp;592",
+        "nome-completo": "ÓTIMO SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "355 - ÓTIMO SCD S.A."
+    },
+    {
+        "nome": "MIDWAY S.A. - SCFI",
+        "cod": 358,
+        "ispb": "9&nbsp;464&nbsp;032",
+        "nome-completo": "MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+        "id": "358 - MIDWAY S.A. - SCFI"
+    },
+    {
+        "nome": "ZEMA CFI S\/A",
+        "cod": 359,
+        "ispb": "5&nbsp;351&nbsp;887",
+        "nome-completo": "ZEMA CRÉDITO, FINANCIAMENTO E INVESTIMENTO S\/A",
+        "id": "359 - ZEMA CFI S\/A"
+    },
+    {
+        "nome": "TRINUS CAPITAL DTVM",
+        "cod": 360,
+        "ispb": "2&nbsp;276&nbsp;653",
+        "nome-completo": "TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "id": "360 - TRINUS CAPITAL DTVM"
+    },
+    {
+        "nome": "CIELO S.A.",
+        "cod": 362,
+        "ispb": "1&nbsp;027&nbsp;058",
+        "nome-completo": "CIELO S.A.",
+        "id": "362 - CIELO S.A."
+    },
+    {
+        "nome": "SINGULARE CTVM S.A.",
+        "cod": 363,
+        "ispb": "62&nbsp;285&nbsp;390",
+        "nome-completo": "SINGULARE CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "id": "363 - SINGULARE CTVM S.A."
+    },
+    {
+        "nome": "GERENCIANET",
+        "cod": 364,
+        "ispb": "9&nbsp;089&nbsp;356",
+        "nome-completo": "GERENCIANET S.A.",
+        "id": "364 - GERENCIANET"
+    },
+    {
+        "nome": "SIMPAUL",
+        "cod": 365,
+        "ispb": "68&nbsp;757&nbsp;681",
+        "nome-completo": "SIMPAUL CORRETORA DE CAMBIO E VALORES MOBILIARIOS S.A.",
+        "id": "365 - SIMPAUL"
+    },
+    {
+        "nome": "BCO SOCIETE GENERALE BRASIL",
+        "cod": 366,
+        "ispb": "61&nbsp;533&nbsp;584",
+        "nome-completo": "BANCO SOCIETE GENERALE BRASIL S.A.",
+        "id": "366 - BCO SOCIETE GENERALE BRASIL"
+    },
+    {
+        "nome": "VITREO DTVM S.A.",
+        "cod": 367,
+        "ispb": "34&nbsp;711&nbsp;571",
+        "nome-completo": "VITREO DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "id": "367 - VITREO DTVM S.A."
+    },
+    {
+        "nome": "BCO CSF S.A.",
+        "cod": 368,
+        "ispb": "8&nbsp;357&nbsp;240",
+        "nome-completo": "Banco CSF S.A.",
+        "id": "368 - BCO CSF S.A."
+    },
+    {
+        "nome": "BCO MIZUHO S.A.",
+        "cod": 370,
+        "ispb": "61&nbsp;088&nbsp;183",
+        "nome-completo": "Banco Mizuho do Brasil S.A.",
+        "id": "370 - BCO MIZUHO S.A."
+    },
+    {
+        "nome": "WARREN CVMC LTDA",
+        "cod": 371,
+        "ispb": "92&nbsp;875&nbsp;780",
+        "nome-completo": "WARREN CORRETORA DE VALORES MOBILIÁRIOS E CÂMBIO LTDA.",
+        "id": "371 - WARREN CVMC LTDA"
+    },
+    {
+        "nome": "UP.P SEP S.A.",
+        "cod": 373,
+        "ispb": "35&nbsp;977&nbsp;097",
+        "nome-completo": "UP.P SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A.",
+        "id": "373 - UP.P SEP S.A."
+    },
+    {
+        "nome": "REALIZE CFI S.A.",
+        "cod": 374,
+        "ispb": "27&nbsp;351&nbsp;731",
+        "nome-completo": "REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
+        "id": "374 - REALIZE CFI S.A."
+    },
+    {
+        "nome": "BCO J.P. MORGAN S.A.",
+        "cod": 376,
+        "ispb": "33&nbsp;172&nbsp;537",
+        "nome-completo": "BANCO J.P. MORGAN S.A.",
+        "id": "376 - BCO J.P. MORGAN S.A."
+    },
+    {
+        "nome": "BMS SCD S.A.",
+        "cod": 377,
+        "ispb": "17&nbsp;826&nbsp;860",
+        "nome-completo": "BMS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "377 - BMS SCD S.A."
+    },
+    {
+        "nome": "BBC LEASING",
+        "cod": 378,
+        "ispb": "1&nbsp;852&nbsp;137",
+        "id": "378 - BBC LEASING"
+    },
+    {
+        "nome": "CECM COOPERFORTE",
+        "cod": 379,
+        "ispb": "1&nbsp;658&nbsp;426",
+        "nome-completo": "COOPERFORTE - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DE FUNCIONÁRIOS DE INSTITU",
+        "id": "379 - CECM COOPERFORTE"
+    },
+    {
+        "nome": "PICPAY",
+        "cod": 380,
+        "ispb": "22&nbsp;896&nbsp;431",
+        "nome-completo": "PICPAY INSTITUIçãO DE PAGAMENTO S.A.",
+        "id": "380 - PICPAY"
+    },
+    {
+        "nome": "BCO MERCEDES-BENZ S.A.",
+        "cod": 381,
+        "ispb": "60&nbsp;814&nbsp;191",
+        "nome-completo": "BANCO MERCEDES-BENZ DO BRASIL S.A.",
+        "id": "381 - BCO MERCEDES-BENZ S.A."
+    },
+    {
+        "nome": "FIDUCIA SCMEPP LTDA",
+        "cod": 382,
+        "ispb": "4&nbsp;307&nbsp;598",
+        "nome-completo": "FIDÚCIA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE L",
+        "id": "382 - FIDUCIA SCMEPP LTDA"
+    },
+    {
+        "nome": "EBANX IP LTDA.",
+        "cod": 383,
+        "ispb": "21&nbsp;018&nbsp;182",
+        "nome-completo": "EBANX INSTITUICAO DE PAGAMENTOS LTDA.",
+        "id": "383 - EBANX IP LTDA."
+    },
+    {
+        "nome": "GLOBAL SCM LTDA",
+        "cod": 384,
+        "ispb": "11&nbsp;165&nbsp;756",
+        "nome-completo": "GLOBAL FINANÇAS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO",
+        "id": "384 - GLOBAL SCM LTDA"
+    },
+    {
+        "nome": "NU FINANCEIRA S.A. CFI",
+        "cod": 386,
+        "ispb": "30&nbsp;680&nbsp;829",
+        "nome-completo": "NU FINANCEIRA S.A. - Sociedade de Crédito, Financiamento e Investimento",
+        "id": "386 - NU FINANCEIRA S.A. CFI"
+    },
+    {
+        "nome": "BCO TOYOTA DO BRASIL S.A.",
+        "cod": 387,
+        "ispb": "3&nbsp;215&nbsp;790",
+        "nome-completo": "Banco Toyota do Brasil S.A.",
+        "id": "387 - BCO TOYOTA DO BRASIL S.A."
+    },
+    {
+        "nome": "BCO MERCANTIL DO BRASIL S.A.",
+        "cod": 389,
+        "ispb": "17&nbsp;184&nbsp;037",
+        "nome-completo": "Banco Mercantil do Brasil S.A.",
+        "id": "389 - BCO MERCANTIL DO BRASIL S.A."
+    },
+    {
+        "nome": "BCO GM S.A.",
+        "cod": 390,
+        "ispb": "59&nbsp;274&nbsp;605",
+        "nome-completo": "BANCO GM S.A.",
+        "id": "390 - BCO GM S.A."
+    },
+    {
+        "nome": "CCR DE IBIAM",
+        "cod": 391,
+        "ispb": "8&nbsp;240&nbsp;446",
+        "nome-completo": "COOPERATIVA DE CREDITO RURAL DE IBIAM - SULCREDI\/IBIAM",
+        "id": "391 - CCR DE IBIAM"
+    },
+    {
+        "nome": "BCO VOLKSWAGEN S.A",
+        "cod": 393,
+        "ispb": "59&nbsp;109&nbsp;165",
+        "nome-completo": "Banco Volkswagen S.A.",
+        "id": "393 - BCO VOLKSWAGEN S.A"
+    },
+    {
+        "nome": "BCO BRADESCO FINANC. S.A.",
+        "cod": 394,
+        "ispb": "7&nbsp;207&nbsp;996",
+        "nome-completo": "Banco Bradesco Financiamentos S.A.",
+        "id": "394 - BCO BRADESCO FINANC. S.A."
+    },
+    {
+        "nome": "F D GOLD DTVM LTDA",
+        "cod": 395,
+        "ispb": "8&nbsp;673&nbsp;569",
+        "nome-completo": "F.D'GOLD - DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+        "id": "395 - F D GOLD DTVM LTDA"
+    },
+    {
+        "nome": "HUB PAGAMENTOS",
+        "cod": 396,
+        "ispb": "13&nbsp;884&nbsp;775",
+        "nome-completo": "HUB PAGAMENTOS S.A",
+        "id": "396 - HUB PAGAMENTOS"
+    },
+    {
+        "nome": "LISTO SCD S.A.",
+        "cod": 397,
+        "ispb": "34&nbsp;088&nbsp;029",
+        "nome-completo": "LISTO SOCIEDADE DE CREDITO DIRETO S.A.",
+        "id": "397 - LISTO SCD S.A."
+    },
+    {
+        "nome": "IDEAL CTVM S.A.",
+        "cod": 398,
+        "ispb": "31&nbsp;749&nbsp;596",
+        "nome-completo": "IDEAL CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "id": "398 - IDEAL CTVM S.A."
+    },
+    {
+        "nome": "KIRTON BANK",
+        "cod": 399,
+        "ispb": "1&nbsp;701&nbsp;201",
+        "nome-completo": "Kirton Bank S.A. - Banco Múltiplo",
+        "id": "399 - KIRTON BANK"
+    },
+    {
+        "nome": "COOP CREDITAG",
+        "cod": 400,
+        "ispb": "5&nbsp;491&nbsp;616",
+        "nome-completo": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DO CENTRO OESTE - CREDIT",
+        "id": "400 - COOP CREDITAG"
+    },
+    {
+        "nome": "IUGU IP S.A.",
+        "cod": 401,
+        "ispb": "15&nbsp;111&nbsp;975",
+        "id": "401 - IUGU IP S.A."
+    },
+    {
+        "nome": "COBUCCIO SCD S.A.",
+        "cod": 402,
+        "ispb": "36&nbsp;947&nbsp;229",
+        "nome-completo": "COBUCCIO SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "402 - COBUCCIO SCD S.A."
+    },
+    {
+        "nome": "CORA SCD S.A.",
+        "cod": 403,
+        "ispb": "37&nbsp;880&nbsp;206",
+        "nome-completo": "CORA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "403 - CORA SCD S.A."
+    },
+    {
+        "nome": "SUMUP SCD S.A.",
+        "cod": 404,
+        "ispb": "37&nbsp;241&nbsp;230",
+        "nome-completo": "SUMUP SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "404 - SUMUP SCD S.A."
+    },
+    {
+        "nome": "ACCREDITO SCD S.A.",
+        "cod": 406,
+        "ispb": "37&nbsp;715&nbsp;993",
+        "nome-completo": "ACCREDITO - SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "406 - ACCREDITO SCD S.A."
+    },
+    {
+        "nome": "ÍNDIGO INVESTIMENTOS DTVM LTDA.",
+        "cod": 407,
+        "ispb": "329&nbsp;598",
+        "nome-completo": "ÍNDIGO INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+        "id": "407 - ÍNDIGO INVESTIMENTOS DTVM LTDA."
+    },
+    {
+        "nome": "BONUSPAGO SCD S.A.",
+        "cod": 408,
+        "ispb": "36&nbsp;586&nbsp;946",
+        "nome-completo": "BONUSPAGO SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "408 - BONUSPAGO SCD S.A."
+    },
+    {
+        "nome": "PLANNER SCM S.A.",
+        "cod": 410,
+        "ispb": "5&nbsp;684&nbsp;234",
+        "nome-completo": "PLANNER SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR S.A.",
+        "id": "410 - PLANNER SCM S.A."
+    },
+    {
+        "nome": "VIA CERTA FINANCIADORA S.A. - CFI",
+        "cod": 411,
+        "ispb": "5&nbsp;192&nbsp;316",
+        "nome-completo": "Via Certa Financiadora S.A. - Crédito, Financiamento e Investimentos",
+        "id": "411 - VIA CERTA FINANCIADORA S.A. - CFI"
+    },
+    {
+        "nome": "BCO CAPITAL S.A.",
+        "cod": 412,
+        "ispb": "15&nbsp;173&nbsp;776",
+        "nome-completo": "BANCO CAPITAL S.A.",
+        "id": "412 - BCO CAPITAL S.A."
+    },
+    {
+        "nome": "BCO BV S.A.",
+        "cod": 413,
+        "ispb": "1&nbsp;858&nbsp;774",
+        "nome-completo": "BANCO BV S.A.",
+        "id": "413 - BCO BV S.A."
+    },
+    {
+        "nome": "WORK SCD S.A.",
+        "cod": 414,
+        "ispb": "37&nbsp;526&nbsp;080",
+        "nome-completo": "WORK SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "414 - WORK SCD S.A."
+    },
+    {
+        "nome": "LAMARA SCD S.A.",
+        "cod": 416,
+        "ispb": "19&nbsp;324&nbsp;634",
+        "nome-completo": "LAMARA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "416 - LAMARA SCD S.A."
+    },
+    {
+        "nome": "ZIPDIN SCD S.A.",
+        "cod": 418,
+        "ispb": "37&nbsp;414&nbsp;009",
+        "nome-completo": "ZIPDIN SOLUÇÕES DIGITAIS SOCIEDADE DE CRÉDITO DIRETO S\/A",
+        "id": "418 - ZIPDIN SCD S.A."
+    },
+    {
+        "nome": "NUMBRS SCD S.A.",
+        "cod": 419,
+        "ispb": "38&nbsp;129&nbsp;006",
+        "nome-completo": "NUMBRS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "419 - NUMBRS SCD S.A."
+    },
+    {
+        "nome": "CC LAR CREDI",
+        "cod": 421,
+        "ispb": "39&nbsp;343&nbsp;350",
+        "nome-completo": "LAR COOPERATIVA DE CRÉDITO - LAR CREDI",
+        "id": "421 - CC LAR CREDI"
+    },
+    {
+        "nome": "BCO SAFRA S.A.",
+        "cod": 422,
+        "ispb": "58&nbsp;160&nbsp;789",
+        "nome-completo": "Banco Safra S.A.",
+        "id": "422 - BCO SAFRA S.A."
+    },
+    {
+        "nome": "COLUNA S.A. DTVM",
+        "cod": 423,
+        "ispb": "460&nbsp;065",
+        "nome-completo": "COLUNA S\/A DISTRIBUIDORA DE TITULOS E VALORES MOBILIÁRIOS",
+        "id": "423 - COLUNA S.A. DTVM"
+    },
+    {
+        "nome": "SOCINAL S.A. CFI",
+        "cod": 425,
+        "ispb": "3&nbsp;881&nbsp;423",
+        "nome-completo": "SOCINAL S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+        "id": "425 - SOCINAL S.A. CFI"
+    },
+    {
+        "nome": "BIORC FINANCEIRA - CFI S.A.",
+        "cod": 426,
+        "ispb": "11&nbsp;285&nbsp;104",
+        "nome-completo": "Biorc Financeira - Crédito, Financiamento e Investimento S.A.",
+        "id": "426 - BIORC FINANCEIRA - CFI S.A."
+    },
+    {
+        "nome": "CRED-UFES",
+        "cod": 427,
+        "ispb": "27&nbsp;302&nbsp;181",
+        "id": "427 - CRED-UFES"
+    },
+    {
+        "nome": "CRED-SYSTEM SCD S.A.",
+        "cod": 428,
+        "ispb": "39&nbsp;664&nbsp;698",
+        "nome-completo": "CRED-SYSTEM SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "428 - CRED-SYSTEM SCD S.A."
+    },
+    {
+        "nome": "CREDIARE CFI S.A.",
+        "cod": 429,
+        "ispb": "5&nbsp;676&nbsp;026",
+        "nome-completo": "Crediare S.A. - Crédito, financiamento e investimento",
+        "id": "429 - CREDIARE CFI S.A."
+    },
+    {
+        "nome": "CCR SEARA",
+        "cod": 430,
+        "ispb": "204&nbsp;963",
+        "nome-completo": "COOPERATIVA DE CREDITO RURAL SEARA - CREDISEARA",
+        "id": "430 - CCR SEARA"
+    },
+    {
+        "nome": "BR-CAPITAL DTVM S.A.",
+        "cod": 433,
+        "ispb": "44&nbsp;077&nbsp;014",
+        "nome-completo": "BR-CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "id": "433 - BR-CAPITAL DTVM S.A."
+    },
+    {
+        "nome": "DELCRED SCD S.A.",
+        "cod": 435,
+        "ispb": "38&nbsp;224&nbsp;857",
+        "nome-completo": "DELCRED SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "435 - DELCRED SCD S.A."
+    },
+    {
+        "nome": "PLANNER TRUSTEE DTVM LTDA",
+        "cod": 438,
+        "ispb": "67&nbsp;030&nbsp;395",
+        "nome-completo": "PLANNER TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+        "id": "438 - PLANNER TRUSTEE DTVM LTDA"
+    },
+    {
+        "nome": "ID CTVM",
+        "cod": 439,
+        "ispb": "16&nbsp;695&nbsp;922",
+        "nome-completo": "ID CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+        "id": "439 - ID CTVM"
+    },
+    {
+        "nome": "CREDIBRF COOP",
+        "cod": 440,
+        "ispb": "82&nbsp;096&nbsp;447",
+        "nome-completo": "CREDIBRF - COOPERATIVA DE CRÉDITO",
+        "id": "440 - CREDIBRF COOP"
+    },
+    {
+        "nome": "MAGNETIS - DTVM",
+        "cod": 442,
+        "ispb": "87&nbsp;963&nbsp;450",
+        "nome-completo": "MAGNETIS - DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+        "id": "442 - MAGNETIS - DTVM"
+    },
+    {
+        "nome": "CREDIHOME SCD",
+        "cod": 443,
+        "ispb": "39&nbsp;416&nbsp;705",
+        "nome-completo": "CREDIHOME SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "443 - CREDIHOME SCD"
+    },
+    {
+        "nome": "TRINUS SCD S.A.",
+        "cod": 444,
+        "ispb": "40&nbsp;654&nbsp;622",
+        "nome-completo": "TRINUS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "444 - TRINUS SCD S.A."
+    },
+    {
+        "nome": "PLANTAE CFI",
+        "cod": 445,
+        "ispb": "35&nbsp;551&nbsp;187",
+        "nome-completo": "PLANTAE S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+        "id": "445 - PLANTAE CFI"
+    },
+    {
+        "nome": "MIRAE ASSET CCTVM LTDA",
+        "cod": 447,
+        "ispb": "12&nbsp;392&nbsp;983",
+        "nome-completo": "MIRAE ASSET WEALTH MANAGEMENT (BRAZIL) CORRETORA DE CÂMBIO, TÍTULOS E VALORES MO",
+        "id": "447 - MIRAE ASSET CCTVM LTDA"
+    },
+    {
+        "nome": "HEMERA DTVM LTDA.",
+        "cod": 448,
+        "ispb": "39&nbsp;669&nbsp;186",
+        "nome-completo": "HEMERA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+        "id": "448 - HEMERA DTVM LTDA."
+    },
+    {
+        "nome": "DMCARD SCD S.A.",
+        "cod": 449,
+        "ispb": "37&nbsp;555&nbsp;231",
+        "nome-completo": "DMCARD SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "449 - DMCARD SCD S.A."
+    },
+    {
+        "nome": "FITBANK PAGAMENTOS ELETRONICOS S.A.",
+        "cod": 450,
+        "ispb": "13&nbsp;203&nbsp;354",
+        "nome-completo": "FITBANK PAGAMENTOS ELETRONICOS S.A.",
+        "id": "450 - FITBANK PAGAMENTOS ELETRONICOS S.A."
+    },
+    {
+        "nome": "CREDIFIT SCD S.A.",
+        "cod": 452,
+        "ispb": "39&nbsp;676&nbsp;772",
+        "nome-completo": "CREDIFIT SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "452 - CREDIFIT SCD S.A."
+    },
+    {
+        "nome": "MÉRITO DTVM LTDA.",
+        "cod": 454,
+        "ispb": "41&nbsp;592&nbsp;532",
+        "nome-completo": "MÉRITO DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+        "id": "454 - MÉRITO DTVM LTDA."
+    },
+    {
+        "nome": "BCO MUFG BRASIL S.A.",
+        "cod": 456,
+        "ispb": "60&nbsp;498&nbsp;557",
+        "nome-completo": "Banco MUFG Brasil S.A.",
+        "id": "456 - BCO MUFG BRASIL S.A."
+    },
+    {
+        "nome": "UY3 SCD S\/A",
+        "cod": 457,
+        "ispb": "39&nbsp;587&nbsp;424",
+        "id": "457 - UY3 SCD S\/A"
+    },
+    {
+        "nome": "HEDGE INVESTMENTS DTVM LTDA.",
+        "cod": 458,
+        "ispb": "7&nbsp;253&nbsp;654",
+        "nome-completo": "HEDGE INVESTMENTS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+        "id": "458 - HEDGE INVESTMENTS DTVM LTDA."
+    },
+    {
+        "nome": "CCM SERV. PÚBLICOS SP",
+        "cod": 459,
+        "ispb": "4&nbsp;546&nbsp;162",
+        "nome-completo": "COOPERATIVA DE CRÉDITO MÚTUO DE SERVIDORES PÚBLICOS DO ESTADO DE SÃO PAULO - CRE",
+        "id": "459 - CCM SERV. PÚBLICOS SP"
+    },
+    {
+        "nome": "ASAAS IP S.A.",
+        "cod": 461,
+        "ispb": "19&nbsp;540&nbsp;550",
+        "nome-completo": "ASAAS GESTÃO FINANCEIRA INSTITUIÇÃO DE PAGAMENTO S.A.",
+        "id": "461 - ASAAS IP S.A."
+    },
+    {
+        "nome": "STARK SCD S.A.",
+        "cod": 462,
+        "ispb": "39&nbsp;908&nbsp;427",
+        "nome-completo": "STARK SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "462 - STARK SCD S.A."
+    },
+    {
+        "nome": "BCO SUMITOMO MITSUI BRASIL S.A.",
+        "cod": 464,
+        "ispb": "60&nbsp;518&nbsp;222",
+        "nome-completo": "Banco Sumitomo Mitsui Brasileiro S.A.",
+        "id": "464 - BCO SUMITOMO MITSUI BRASIL S.A."
+    },
+    {
+        "nome": "CAPITAL CONSIG SCD S.A.",
+        "cod": 465,
+        "ispb": "40&nbsp;083&nbsp;667",
+        "nome-completo": "CAPITAL CONSIG SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "id": "465 - CAPITAL CONSIG SCD S.A."
+    },
+    {
+        "nome": "MASTER S\/A CCTVM",
+        "cod": 467,
+        "ispb": "33&nbsp;886&nbsp;862",
+        "nome-completo": "MASTER S\/A CORRETORA DE CâMBIO, TíTULOS E VALORES MOBILIáRIOS",
+        "id": "467 - MASTER S\/A CCTVM"
+    },
+    {
+        "nome": "BCO CAIXA GERAL BRASIL S.A.",
+        "cod": 473,
+        "ispb": "33&nbsp;466&nbsp;988",
+        "nome-completo": "Banco Caixa Geral - Brasil S.A.",
+        "id": "473 - BCO CAIXA GERAL BRASIL S.A."
+    },
+    {
+        "nome": "CITIBANK N.A.",
+        "cod": 477,
+        "ispb": "33&nbsp;042&nbsp;953",
+        "nome-completo": "Citibank N.A.",
+        "id": "477 - CITIBANK N.A."
+    },
+    {
+        "nome": "BCO ITAUBANK S.A.",
+        "cod": 479,
+        "ispb": "60&nbsp;394&nbsp;079",
+        "nome-completo": "Banco ItauBank S.A.",
+        "id": "479 - BCO ITAUBANK S.A."
+    },
+    {
+        "nome": "DEUTSCHE BANK S.A.BCO ALEMAO",
+        "cod": 487,
+        "ispb": "62&nbsp;331&nbsp;228",
+        "nome-completo": "DEUTSCHE BANK S.A. - BANCO ALEMAO",
+        "id": "487 - DEUTSCHE BANK S.A.BCO ALEMAO"
+    },
+    {
+        "nome": "JPMORGAN CHASE BANK",
+        "cod": 488,
+        "ispb": "46&nbsp;518&nbsp;205",
+        "nome-completo": "JPMorgan Chase Bank, National Association",
+        "id": "488 - JPMORGAN CHASE BANK"
+    },
+    {
+        "nome": "ING BANK N.V.",
+        "cod": 492,
+        "ispb": "49&nbsp;336&nbsp;860",
+        "nome-completo": "ING Bank N.V.",
+        "id": "492 - ING BANK N.V."
+    },
+    {
+        "nome": "BCO LA PROVINCIA B AIRES BCE",
+        "cod": 495,
+        "ispb": "44&nbsp;189&nbsp;447",
+        "nome-completo": "Banco de La Provincia de Buenos Aires",
+        "id": "495 - BCO LA PROVINCIA B AIRES BCE"
+    },
+    {
+        "nome": "BCO CREDIT SUISSE S.A.",
+        "cod": 505,
+        "ispb": "32&nbsp;062&nbsp;580",
+        "nome-completo": "Banco Credit Suisse (Brasil) S.A.",
+        "id": "505 - BCO CREDIT SUISSE S.A."
+    },
+    {
+        "nome": "SENSO CCVM S.A.",
+        "cod": 545,
+        "ispb": "17&nbsp;352&nbsp;220",
+        "nome-completo": "SENSO CORRETORA DE CAMBIO E VALORES MOBILIARIOS S.A",
+        "id": "545 - SENSO CCVM S.A."
+    },
+    {
+        "nome": "BCO LUSO BRASILEIRO S.A.",
+        "cod": 600,
+        "ispb": "59&nbsp;118&nbsp;133",
+        "nome-completo": "Banco Luso Brasileiro S.A.",
+        "id": "600 - BCO LUSO BRASILEIRO S.A."
+    },
+    {
+        "nome": "BCO INDUSTRIAL DO BRASIL S.A.",
+        "cod": 604,
+        "ispb": "31&nbsp;895&nbsp;683",
+        "nome-completo": "Banco Industrial do Brasil S.A.",
+        "id": "604 - BCO INDUSTRIAL DO BRASIL S.A."
+    },
+    {
+        "nome": "BCO VR S.A.",
+        "cod": 610,
+        "ispb": "78&nbsp;626&nbsp;983",
+        "nome-completo": "Banco VR S.A.",
+        "id": "610 - BCO VR S.A."
+    },
+    {
+        "nome": "BCO PAULISTA S.A.",
+        "cod": 611,
+        "ispb": "61&nbsp;820&nbsp;817",
+        "id": "611 - BCO PAULISTA S.A."
+    },
+    {
+        "nome": "BCO GUANABARA S.A.",
+        "cod": 612,
+        "ispb": "31&nbsp;880&nbsp;826",
+        "nome-completo": "Banco Guanabara S.A.",
+        "id": "612 - BCO GUANABARA S.A."
+    },
+    {
+        "nome": "OMNI BANCO S.A.",
+        "cod": 613,
+        "ispb": "60&nbsp;850&nbsp;229",
+        "nome-completo": "Omni Banco S.A.",
+        "id": "613 - OMNI BANCO S.A."
+    },
+    {
+        "nome": "BANCO PAN",
+        "cod": 623,
+        "ispb": "59&nbsp;285&nbsp;411",
+        "nome-completo": "Banco Pan S.A.",
+        "id": "623 - BANCO PAN"
+    },
+    {
+        "nome": "BCO C6 CONSIG",
+        "cod": 626,
+        "ispb": "61&nbsp;348&nbsp;538",
+        "nome-completo": "BANCO C6 CONSIGNADO S.A.",
+        "id": "626 - BCO C6 CONSIG"
+    },
+    {
+        "nome": "BCO LETSBANK S.A.",
+        "cod": 630,
+        "ispb": "58&nbsp;497&nbsp;702",
+        "nome-completo": "BANCO LETSBANK S.A.",
+        "id": "630 - BCO LETSBANK S.A."
+    },
+    {
+        "nome": "BCO RENDIMENTO S.A.",
+        "cod": 633,
+        "ispb": "68&nbsp;900&nbsp;810",
+        "nome-completo": "Banco Rendimento S.A.",
+        "id": "633 - BCO RENDIMENTO S.A."
+    },
+    {
+        "nome": "BCO TRIANGULO S.A.",
+        "cod": 634,
+        "ispb": "17&nbsp;351&nbsp;180",
+        "nome-completo": "BANCO TRIANGULO S.A.",
+        "id": "634 - BCO TRIANGULO S.A."
+    },
+    {
+        "nome": "BCO SOFISA S.A.",
+        "cod": 637,
+        "ispb": "60&nbsp;889&nbsp;128",
+        "nome-completo": "BANCO SOFISA S.A.",
+        "id": "637 - BCO SOFISA S.A."
+    },
+    {
+        "nome": "BCO PINE S.A.",
+        "cod": 643,
+        "ispb": "62&nbsp;144&nbsp;175",
+        "nome-completo": "Banco Pine S.A.",
+        "id": "643 - BCO PINE S.A."
+    },
+    {
+        "nome": "ITAÚ UNIBANCO HOLDING S.A.",
+        "cod": 652,
+        "ispb": "60&nbsp;872&nbsp;504",
+        "nome-completo": "Itaú Unibanco Holding S.A.",
+        "id": "652 - ITAÚ UNIBANCO HOLDING S.A."
+    },
+    {
+        "nome": "BANCO VOITER",
+        "cod": 653,
+        "ispb": "61&nbsp;024&nbsp;352",
+        "nome-completo": "BANCO VOITER S.A.",
+        "id": "653 - BANCO VOITER"
+    },
+    {
+        "nome": "BCO DIGIMAIS S.A.",
+        "cod": 654,
+        "ispb": "92&nbsp;874&nbsp;270",
+        "nome-completo": "BANCO DIGIMAIS S.A.",
+        "id": "654 - BCO DIGIMAIS S.A."
+    },
+    {
+        "nome": "BCO VOTORANTIM S.A.",
+        "cod": 655,
+        "ispb": "59&nbsp;588&nbsp;111",
+        "nome-completo": "Banco Votorantim S.A.",
+        "id": "655 - BCO VOTORANTIM S.A."
+    },
+    {
+        "nome": "BCO CREFISA S.A.",
+        "cod": 69,
+        "ispb": "61&nbsp;033&nbsp;106",
+        "nome-completo": "Banco Crefisa S.A.",
+        "id": "69 - BCO CREFISA S.A."
+    },
+    {
+        "nome": "BCO DAYCOVAL S.A",
+        "cod": 707,
+        "ispb": "62&nbsp;232&nbsp;889",
+        "nome-completo": "Banco Daycoval S.A.",
+        "id": "707 - BCO DAYCOVAL S.A"
+    },
+    {
+        "nome": "BCO OURINVEST S.A.",
+        "cod": 712,
+        "ispb": "78&nbsp;632&nbsp;767",
+        "nome-completo": "Banco Ourinvest S.A.",
+        "id": "712 - BCO OURINVEST S.A."
+    },
+    {
+        "nome": "BCO RNX S.A.",
+        "cod": 720,
+        "ispb": "80&nbsp;271&nbsp;455",
+        "nome-completo": "BANCO RNX S.A.",
+        "id": "720 - BCO RNX S.A."
+    },
+    {
+        "nome": "BCO CETELEM S.A.",
+        "cod": 739,
+        "ispb": "558&nbsp;456",
+        "nome-completo": "Banco Cetelem S.A.",
+        "id": "739 - BCO CETELEM S.A."
+    },
+    {
+        "nome": "BCO RIBEIRAO PRETO S.A.",
+        "cod": 741,
+        "ispb": "517&nbsp;645",
+        "nome-completo": "BANCO RIBEIRAO PRETO S.A.",
+        "id": "741 - BCO RIBEIRAO PRETO S.A."
+    },
+    {
+        "nome": "BANCO SEMEAR",
+        "cod": 743,
+        "ispb": "795&nbsp;423",
+        "id": "743 - BANCO SEMEAR"
+    },
+    {
+        "nome": "BCO CITIBANK S.A.",
+        "cod": 745,
+        "ispb": "33&nbsp;479&nbsp;023",
+        "nome-completo": "Banco Citibank S.A.",
+        "id": "745 - BCO CITIBANK S.A."
+    },
+    {
+        "nome": "BCO MODAL S.A.",
+        "cod": 746,
+        "ispb": "30&nbsp;723&nbsp;886",
+        "nome-completo": "Banco Modal S.A.",
+        "id": "746 - BCO MODAL S.A."
+    },
+    {
+        "nome": "BCO RABOBANK INTL BRASIL S.A.",
+        "cod": 747,
+        "ispb": "1&nbsp;023&nbsp;570",
+        "nome-completo": "Banco Rabobank International Brasil S.A.",
+        "id": "747 - BCO RABOBANK INTL BRASIL S.A."
+    },
+    {
+        "nome": "BCO COOPERATIVO SICREDI S.A.",
+        "cod": 748,
+        "ispb": "1&nbsp;181&nbsp;521",
+        "nome-completo": "BANCO COOPERATIVO SICREDI S.A.",
+        "id": "748 - BCO COOPERATIVO SICREDI S.A."
+    },
+    {
+        "nome": "SCOTIABANK BRASIL",
+        "cod": 751,
+        "ispb": "29&nbsp;030&nbsp;467",
+        "nome-completo": "Scotiabank Brasil S.A. Banco Múltiplo",
+        "id": "751 - SCOTIABANK BRASIL"
+    },
+    {
+        "nome": "BCO BNP PARIBAS BRASIL S A",
+        "cod": 752,
+        "ispb": "1&nbsp;522&nbsp;368",
+        "nome-completo": "Banco BNP Paribas Brasil S.A.",
+        "id": "752 - BCO BNP PARIBAS BRASIL S A"
+    },
+    {
+        "nome": "NOVO BCO CONTINENTAL S.A. - BM",
+        "cod": 753,
+        "ispb": "74&nbsp;828&nbsp;799",
+        "nome-completo": "Novo Banco Continental S.A. - Banco Múltiplo",
+        "id": "753 - NOVO BCO CONTINENTAL S.A. - BM"
+    },
+    {
+        "nome": "BANCO SISTEMA",
+        "cod": 754,
+        "ispb": "76&nbsp;543&nbsp;115",
+        "nome-completo": "Banco Sistema S.A.",
+        "id": "754 - BANCO SISTEMA"
+    },
+    {
+        "nome": "BOFA MERRILL LYNCH BM S.A.",
+        "cod": 755,
+        "ispb": "62&nbsp;073&nbsp;200",
+        "nome-completo": "Bank of America Merrill Lynch Banco Múltiplo S.A.",
+        "id": "755 - BOFA MERRILL LYNCH BM S.A."
+    },
+    {
+        "nome": "BANCO SICOOB S.A.",
+        "cod": 756,
+        "ispb": "2&nbsp;038&nbsp;232",
+        "nome-completo": "BANCO COOPERATIVO SICOOB S.A. - BANCO SICOOB",
+        "id": "756 - BANCO SICOOB S.A."
+    },
+    {
+        "nome": "BCO KEB HANA DO BRASIL S.A.",
+        "cod": 757,
+        "ispb": "2&nbsp;318&nbsp;507",
+        "nome-completo": "BANCO KEB HANA DO BRASIL S.A.",
+        "id": "757 - BCO KEB HANA DO BRASIL S.A."
+    },
+    {
+        "nome": "Selic",
+        "cod": "n\/a",
+        "ispb": "38&nbsp;121",
+        "nome-completo": "Banco Central do Brasil - Selic",
+        "id": "n\/a - Selic"
+    },
+    {
+        "nome": "Bacen",
+        "cod": "n\/a",
+        "ispb": "38&nbsp;166",
+        "nome-completo": "Banco Central do Brasil",
+        "id": "n\/a - Bacen"
+    },
+    {
+        "nome": "STN",
+        "cod": "n\/a",
+        "ispb": "394&nbsp;460",
+        "nome-completo": "Secretaria do Tesouro Nacional - STN",
+        "id": "n\/a - STN"
+    },
+    {
+        "nome": "CIP Siloc",
+        "cod": "n\/a",
+        "ispb": "2&nbsp;992&nbsp;335",
+        "nome-completo": "Câmara Interbancária de Pagamentos - CIP - LDL",
+        "id": "n\/a - CIP Siloc"
+    },
+    {
+        "nome": "CAMARA INTERBANCARIA DE PAGAMENTOS - CIP",
+        "cod": "n\/a",
+        "ispb": "4&nbsp;391&nbsp;007",
+        "nome-completo": "Câmara Interbancária de Pagamentos",
+        "id": "n\/a - CAMARA INTERBANCARIA DE PAGAMENTOS - CIP"
+    },
+    {
+        "nome": "Balcão B3",
+        "cod": "n\/a",
+        "ispb": "28&nbsp;719&nbsp;664",
+        "nome-completo": "Sistema do Balcão B3",
+        "id": "n\/a - Balcão B3"
+    },
+    {
+        "nome": "CIP C3",
+        "cod": "n\/a",
+        "ispb": "29&nbsp;011&nbsp;780",
+        "nome-completo": "Câmara Interbancária de Pagamentos - CIP C3",
+        "id": "n\/a - CIP C3"
+    },
+    {
+        "nome": "Câmara B3",
+        "cod": "n\/a",
+        "ispb": "54&nbsp;641&nbsp;030",
+        "nome-completo": "Câmara B3",
+        "id": "n\/a - Câmara B3"
+    },
+    {
+        "nome": "Câmbio B3",
+        "cod": "n\/a",
+        "ispb": "60&nbsp;934&nbsp;221",
+        "id": "n\/a - Câmbio B3"
+    }
+]

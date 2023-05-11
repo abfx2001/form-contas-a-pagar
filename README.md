@@ -21,7 +21,7 @@ como o projeto vai ter moldado novamente para se compor em um ambiente nuvem, se
 
 ## Version
 >
-> V. 2.6.1
+> V. 2.6.6
 
 ## Autores
 
